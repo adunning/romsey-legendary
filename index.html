@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <link rel="stylesheet" href="css/tei-html.css">
+  <link rel="stylesheet" href="js/jquery-ui-1.11.4.custom/jquery-ui.css">
+  <script type="text/javascript" src="js/CETEI.js"></script>
+  <script type="text/javascript" src="js/jquery/jquery-1.11.3.js"></script>
+  <script type="text/javascript" src="js/jquery-ui-1.11.4.custom/jquery-ui.js"></script>
+  <script type="text/javascript" src="js/appcrit.js"></script>
+  <script type="text/javascript">
+    var c = new CETEI();
+    c.shadowCSS = "css/tei-html.css";
+    var app = new appcrit(c);
+    c.addBehaviors({
+      "handlers": {
+        // Overrides the default ptr behavior, displaying a short link
+        "ptr": function(elt) {
+          var link = document.createElement("a");
+          link.innerHTML = elt.getAttribute("target").replace(/https?:\/\/([^\/]+)\/.*/, "$1");
+          link.href = elt.getAttribute("target");
+          return link;
+        },
+        "gap": ["<span>*</span>"],
+        "witDetail": function(elt) {
+          var content = document.createElement("span");
+          if (elt.hasAttribute("data-empty")) {
+            if (elt.getAttribute("type") == "correction-altered") {
+              content.innerHTML = " (p.c.) "
+            }
+            if (elt.getAttribute("type") == "correction-original") {
+              content.innerHTML = " (a.c.) "
+            }
+          } else {
+            content.innerHTML = " (" + elt.innerHTML + ") ";
+          }
+          return content;
+        }
+      }
+    });
+    var data = c.getHTML5('romsey-legendary.xml', null, function(el) {
+      if (el.hasAttribute("id")) {
+        if (["tei-listwit", "tei-witness", "tei-bibl", "tei-handnote", "tei-person", "tei-item"].includes(el.localName)) {
+          var val = $(el).children("tei-abbr[type=siglum]").html();
+          if (val) {
+            app.references["#" + el.getAttribute("id")] = val;
+          } else {
+            app.references["#" + el.getAttribute("id")] = el.getAttribute("id");
+          }
+        }
+      }
+    });
+    data.then(function(TEI) {
+      app.loadData(TEI);
+      $("#loading").remove();
+      $("body").append(TEI);
+      if (window.location.hash) {
+        window.location = window.location;
+      }
+      var morph = new morphlibrary(document);
+      morph.activate("lat");
+    })
+  </script>
+</head>
+
+<body>
+  <div id="loading">
+    <p>✻</p>
+  </div>
+</body>
+
+</html>
