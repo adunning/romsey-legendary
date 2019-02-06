@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <?xml-model href="https://digitallatin.github.io/guidelines/critical-editions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://digitallatin.github.io/guidelines/critical-editions.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en-CA" xml:space="preserve">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en-CA">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -684,7 +684,7 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
-<text xml:lang="la-GB">
+<text xml:lang="la-GB" xml:space="preserve">
 <group>
 
 
