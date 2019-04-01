@@ -1811,8 +1811,10 @@ Explicit
 <text xml:id="Frideswida">
 <body>
 <div type="textpart" subtype="uita">
-<head>Incipit
-<lb/>de sancta <persName ref="https://wikidata.org/wiki/Q1314431">Fredeswida</persName> uirgine.</head>
+<head>
+Incipit
+<lb/>de sancta <persName ref="https://wikidata.org/wiki/Q1314431">Fredeswida</persName> uirgine.
+</head>
 <div type="textpart" subtype="capitulum" n="1">
 <p>
 <lb/>Tempore illo quo Anglia diuersis regibus et sub<lb break="no"/>regulis erat subiecta./
@@ -2204,11 +2206,11 @@ Explicit de sancta <persName ref="https://wikidata.org/wiki/Q1314431">Fredeswida
 <text xml:id="Rumoldo">
 <body>
 <div type="textpart">
-<div type="textpart" subtype="capitulum" n="1">
 <head>
 Incipit de sancto
 con<lb break="no"/>fessore <persName>Rumoldo</persName>.
 </head>
+<div type="textpart" subtype="capitulum" n="1">
 <p>
 <lb/>Mirabilis deus in
 <lb/>sanctis suis qui licet
@@ -2429,7 +2431,8 @@ lango<lb break="no"/>ribus grauatis sospitatis munus.
 <div type="textpart">
 <head>
 Incipit de sancta <persName>hilda</persName>
-<lb/>abbatissa.</head>
+<lb/>abbatissa.
+</head>
 <div type="textpart" subtype="capitulum" n="1">
 <p>
 <lb/>Regali ex progenie
@@ -2685,10 +2688,12 @@ Explicit de sancta <persName>hilda</persName> abbatissa.
 
 <text xml:id="Wenefreda">
 <body>
-<div type="textpart" subtype="uita">
-<head>Incipit de
+<div type="textpart">
+<head>
+Incipit de
 <lb/>sancta <persName ref="https://wikidata.org/wiki/Q2575112">wenefreda</persName> uirgine
-<lb/>et martire.</head>
+<lb/>et martire.
+</head>
 <div type="textpart" subtype="capitulum" n="1">
 <p>
 <lb/>Quia uirgo sancta <persName ref="https://wikidata.org/wiki/Q2575112">wenne<lb break="no"/>freda</persName> sua corporali
@@ -2985,8 +2990,10 @@ Explicit de sancta <persName>hilda</persName> abbatissa.
 <text xml:id="RobertusNouiMonasterii">
 <body>
 <div type="textpart">
-<head>Incipit de sancto
-<lb/><persName ref="https://wikidata.org/wiki/Q2032562">Roberto</persName> <placeName ref="https://wikidata.org/wiki/Q17643670">noui monasterii</placeName> abbate.</head>
+<head>
+Incipit de sancto
+<lb/><persName ref="https://wikidata.org/wiki/Q2032562">Roberto</persName> <placeName ref="https://wikidata.org/wiki/Q17643670">noui monasterii</placeName> abbate.
+</head>
 <cb n="b"/>
 <div type="textpart" subtype="capitulum" n="1">
 <p>
@@ -3680,7 +3687,7 @@ Explicit
 
 <text xml:id="Wlfricus">
 <body>
-<div type="textpart" subtype="uita">
+<div type="textpart">
 <head>
 <lb/>Incipit de sancto Wlfrico incluso
 <lb/>de haselberge confessore
