@@ -2436,7 +2436,7 @@ Incipit de sancta <persName>hilda</persName>
 <div type="textpart" subtype="capitulum" n="1">
 <p>
 <lb/>Regali ex progenie
-<lb/>beata <persName>Hilda</persName> abba./cissa
+<lb/>beata <persName>Hilda</persName> abbatissa
 <lb/>exorta./ sicut cla<lb break="no"/>ra extitit genere
 <lb/>sic clarissima fuit
 <lb/>uirtutum decore. Erat enim nepotis
@@ -3689,8 +3689,8 @@ Explicit
 <body>
 <div type="textpart">
 <head>
-<lb/>Incipit de sancto Wlfrico incluso
-<lb/>de haselberge confessore
+<lb/>Incipit de sancto <persName>Wlfrico</persName> incluso
+<lb/>de <placeName>haselberge</placeName> confessore
 </head>
 <div type="textpart" subtype="capitulum" n="1">
 <p>
