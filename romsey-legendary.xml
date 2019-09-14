@@ -1650,13 +1650,13 @@ pie<lb break="no"/>tatem uirginis excitarent. Illa deo
 <lb/>sibi reuelante intelligens non ex
 <lb/>nichilo cause tantam queremoniam
 aui<lb break="no"/>um⸵ uillicum sedulo percunctata
-f<subst><del rend="erased"><unclear>iunt</unclear></del><add place="right">fur<supplied reason="lost" source="#Winterbottom">tum</supplied></add></subst>
+f<subst><del rend="erased"><unclear>iunt</unclear></del><add place="inline right">ur<supplied reason="lost" source="#Winterbottom">tum</supplied></add></subst>
 <lb/>congnouit. iubet ossa recollig<choice><sic>ere</sic><corr source="#Winterbottom">i</corr></choice> et
 <lb/>afferri. Nec mora signo uirginee
 <lb/>manus medicante. cutis et caro ossibus
 <pb n="28v"/>
 <cb n="a"/>
-<lb/>superducta⸵ cutis cepit plumescere; donec
+<lb/>sup<supplied reason="omitted">er</supplied>ducta⸵ cutis cepit plumescere; donec
 <lb/>ales animata saltu primo. alacri mox
 uo<lb break="no"/>latu se librauit in ethera. Nec mora
 <lb/>omnes illa consio ita auolauit ut nulla
@@ -2260,7 +2260,7 @@ Audito igitur uirginis responso
 <lb/>ut michi sue spiritum dilectionis infundat⸵
 <lb/>quo inbutus omnes mundiales<!-- mundales Fletcher --> paruipen<lb break="no"/>dam honores et diuicias; et presen<lb break="no"/>tis uite superare queam illecebras⸵
 <lb/>quatenus <quote synch="Tit2.12">iuste et sancte uiuens in hoc presen<lb break="no"/>ti seculo.</quote> dei ualeam consequi misericordiam
-<lb/>in futuro. Ad hec uerba beata uirgo <persName ref="https://wikidata.org/wiki/Q5196821">cuth<lb break="no"/>burga</persName> exultans in spiritu sancto⸵ magnas cepit gracias agere o<supplied reason="omitted">mn</supplied>ipotenti
+<lb/>in futuro. Ad hec uerba beata uirgo <persName ref="https://wikidata.org/wiki/Q5196821">cuth<lb break="no"/>burga</persName> exultans in spiritu sancto⸵ mag<lb break="no"/>nas cepit gracias agere o<supplied reason="omitted">mn</supplied>ipotenti
 <lb/>deo.<!-- om. Fletcher -->
 </p>
 </div>
@@ -2402,7 +2402,8 @@ Incipit
 </head>
 <div type="textpart" subtype="capitulum" n="1">
 <p>
-<lb/>Tempore illo quo Anglia diuersis regibus et sub<lb break="no"/>regulis erat subiecta⸵
+<lb/>Tempore illo quo Anglia 
+<lb/>diuersis regibus et sub<lb break="no"/>regulis erat subiecta⸵
 <lb/>cristianissimis parentibus
 <lb/>regi <persName ref="https://wikidata.org/wiki/Q5274062">didano</persName> et <persName ref="https://wikidata.org/wiki/Q61487546">se<lb break="no"/>fride</persName> regine. beata uirgo <persName ref="https://wikidata.org/wiki/Q1314431">Fridesuuida</persName>
 <lb/>extitit orta. Huius regis do<lb break="no"/>minum in <placeName ref="https://wikidata.org/wiki/Q34217">oxonifordia</placeName> et partibus
