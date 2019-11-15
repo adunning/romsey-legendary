@@ -130,7 +130,7 @@
               <summary>Chronicle of Anglo-Saxon kings</summary>
               <msItem>
                 <locus>fols 2r–5v</locus>
-                <incipit xml:lang="la-GB">Insula ista que nunc Anglia dicitur quondam propter inhabitantes Britones Britannia maior dicebatur.</incipit>
+                <incipit xml:lang="la-GB">Insula ista que nunc anglia dicitur quondam propter inhabitantes britones britannia maior dicebatur.</incipit>
                 <explicit xml:lang="la-GB">ei abstulit⸵ imsumque regem ritus sacrilegos</explicit>
               </msItem>
             </msContents>
@@ -181,232 +181,232 @@
               </msItem>
               <msItem>
                 <locus>fols 9v–11v</locus>
-                <rubric xml:lang="la-GB">Incipit de sancto Laurentio successore suo.</rubric>
-                <incipit xml:lang="la-GB">Gloriosus Cristi confessor Laurencius nacione Romanus</incipit>
+                <rubric xml:lang="la-GB">Incipit de sancto laurentio successore suo.</rubric>
+                <incipit xml:lang="la-GB">Gloriosus cristi confessor laurencius nacione romanus</incipit>
                 <explicit xml:lang="la-GB">Vbi ob eius merita deus deuote poscentibus innumera presta<add place="above">t</add>
                   beneficia⸵ ad laudem et gloriam nominis sui. quod sit benedictum in secula. Amen.</explicit>
                 <note>Laurentius of Canterbury</note>
               </msItem>
               <msItem>
                 <locus>fols 11v–14r</locus>
-                <rubric xml:lang="la-GB">Incipit de sancto Mellito successore suo.</rubric>
-                <incipit xml:lang="la-GB">Postquam adiuuante deo ad predicationem precellentissimi Anglorum apostoli</incipit>
+                <rubric xml:lang="la-GB">Incipit de sancto mellito successore suo.</rubric>
+                <incipit xml:lang="la-GB">Postquam adiuuante deo ad predicationem precellentissimi anglorum apostoli</incipit>
                 <explicit xml:lang="la-GB">post huius uite tempora⸵ tecum nos ad perpetua perduces celi gaudia. Amen.</explicit>
                 <note>Mellitus of Canterbury</note>
               </msItem>
               <msItem>
                 <locus>fols 14r–16v</locus>
-                <rubric xml:lang="la-GB">Incipit de sancto Paulino episcopo.</rubric>
-                <incipit xml:lang="la-GB">Postquam rex deuotissimus Cancie Athelbertus</incipit>
+                <rubric xml:lang="la-GB">Incipit de sancto paulino episcopo.</rubric>
+                <incipit xml:lang="la-GB">Postquam rex deuotissimus cancie athelbertus</incipit>
                 <explicit xml:lang="la-GB">pallium quod a romano papa acceperat reliquit.</explicit>
                 <note>Paulinus of York</note>
               </msItem>
               <msItem>
                 <locus>fols 16v–19v</locus>
-                <rubric xml:lang="la-GB">Incipit de sancto Oswaldo rege et martire.</rubric>
-                <incipit xml:lang="la-GB">Post mortem gloriosi Edwini regis Northumbrorum</incipit>
+                <rubric xml:lang="la-GB">Incipit de sancto oswaldo rege et martire.</rubric>
+                <incipit xml:lang="la-GB">Post mortem gloriosi edwini regis northumbrorum</incipit>
                 <explicit xml:lang="la-GB">natalicius dies missarum celebratione uenerari.</explicit>
                 <note>Oswald of Northumbria</note>
               </msItem>
               <msItem>
                 <locus>fols 19v–21v</locus>
-                <rubric xml:lang="la-GB">Incipit de sancto Aidano episcopo et confessore.</rubric>
-                <incipit xml:lang="la-GB">Gloriosus rex Oswaldus mox ut regnum Norhambumbrorum</incipit>
+                <rubric xml:lang="la-GB">Incipit de sancto aidano episcopo et confessore.</rubric>
+                <incipit xml:lang="la-GB">Gloriosus rex oswaldus mox ut regnum norhambumbrorum</incipit>
                 <explicit xml:lang="la-GB">supernam redisse ad patriam.</explicit>
                 <note>Aidan of Lindisfarne</note>
               </msItem>
               <msItem>
                 <locus>fols 21v–23v</locus>
-                <rubric xml:lang="la-GB">Incipit de sancto Cedda episcopo lichfeldensi.</rubric>
-                <incipit xml:lang="la-GB">Temporibus Oswii Northamhimbrorum regis</incipit>
-                <explicit xml:lang="la-GB">gesta sanctorum Wlfadi et Rufi legat et memoria digna reperiet.</explicit>
+                <rubric xml:lang="la-GB">Incipit de sancto cedda episcopo lichfeldensi.</rubric>
+                <incipit xml:lang="la-GB">Temporibus oswii northamhimbrorum regis</incipit>
+                <explicit xml:lang="la-GB">gesta sanctorum wlfadi et rufi legat et memoria digna reperiet.</explicit>
                 <note>Chad of Northumbria</note>
               </msItem>
               <msItem>
                 <locus>fols 23v–27r</locus>
-                <rubric xml:lang="la-GB">Incipit de sanctis martiribus Wlfado et Rufo.</rubric>
-                <incipit xml:lang="la-GB">Gloriosi martires Wlfadus et Rufus duo filii splendoris</incipit>
-                <explicit xml:lang="la-GB">in eadem urbe crebra fiunt miracula⸵ ad laudem deum nostri Iesu Cristi qui est super omnia deus benedictus in secula. Amen.</explicit>
+                <rubric xml:lang="la-GB">Incipit de sanctis martiribus wlfado et rufo.</rubric>
+                <incipit xml:lang="la-GB">Gloriosi martires wlfadus et rufus duo filii splendoris</incipit>
+                <explicit xml:lang="la-GB">in eadem urbe crebra fiunt miracula⸵ ad laudem deum nostri ihesu cristi qui est super omnia deus benedictus in secula. Amen.</explicit>
                 <note>Wulfhad and Ruffin of Stone</note>
               </msItem>
               <msItem>
                 <locus>fols 27r–29r</locus>
-                <rubric xml:lang="la-GB">Incipit de sancta Werburga uirgine sorore eorum.</rubric>
-                <incipit xml:lang="la-GB">In urbe Cestra fuit ex antiqua monasterium sanctimonialium⸵</incipit>
-                <explicit xml:lang="la-GB">in loco ubi prius quieuit et in Cestra ubi nunc quiescit breuitatis causa scribere pertranseo.</explicit>
+                <rubric xml:lang="la-GB">Incipit de sancta werburga uirgine sorore eorum.</rubric>
+                <incipit xml:lang="la-GB">In urbe cestra fuit ex antiqua monasterium sanctimonialium⸵</incipit>
+                <explicit xml:lang="la-GB">in loco ubi prius quieuit et in cestra ubi nunc quiescit breuitatis causa scribere pertranseo.</explicit>
                 <note>Werburgh of Chester</note>
               </msItem>
               <msItem>
                 <locus>fols 29r–30r</locus>
-                <rubric xml:lang="la-GB">Incipit de sancta Ositha uirgine et martire.</rubric>
-                <incipit xml:lang="la-GB">Ista beata uirgo et martir Ositha ex nobilissima Anglorum stirpe extitit orta.</incipit>
-                <explicit xml:lang="la-GB">Pro quibus omnibus deum laudemus. ipsamque uirginem humili prece deposcamus et ut nobis peccatoribus apud dominum nostrum Iesum Cristum subuenire dignetur⸵ qui uiuit et regna<supplied reason="omitted">t</supplied>
+                <rubric xml:lang="la-GB">Incipit de sancta ositha uirgine et martire.</rubric>
+                <incipit xml:lang="la-GB">Ista beata uirgo et martir ositha ex nobilissima anglorum stirpe extitit orta.</incipit>
+                <explicit xml:lang="la-GB">Pro quibus omnibus deum laudemus. ipsamque uirginem humili prece deposcamus et ut nobis peccatoribus apud dominum nostrum ihesum cristum subuenire dignetur⸵ qui uiuit et regna<supplied reason="omitted">t</supplied>
                   cum deo patre in unitate spiritus sancti deus per omnia secula seculorum. Amen.</explicit>
                 <note>Osgyth of Essex</note>
                 <bibl>BHL 6352</bibl>
               </msItem>
               <msItem>
                 <locus>fols 30r–31v</locus>
-                <rubric xml:lang="la-GB">Incipit de sancto Birino episcopo.</rubric>
-                <incipit xml:lang="la-GB">Rome ex liberiore genere beatus Birinus nobiliter oriundus⸵ generis sui excellentiam uirtutum iubare et morum claritate spendidius illustrauit.</incipit>
+                <rubric xml:lang="la-GB">Incipit de sancto birino episcopo.</rubric>
+                <incipit xml:lang="la-GB">Rome ex liberiore genere beatus birinus nobiliter oriundus⸵ generis sui excellentiam uirtutum iubare et morum claritate spendidius illustrauit.</incipit>
                 <explicit xml:lang="la-GB">de loco ubi ponitum fuerat corpus illud sanctissimum eleuauit et incadem ecclesia iuxta maius altare honorificencius collocauit.</explicit>
                 <note>Birinus of Dorchester</note>
                 <bibl>BHL 1363</bibl>
               </msItem>
               <msItem>
                 <locus>fols 32r–34v</locus>
-                <rubric xml:lang="la-GB">Incipit de sancto Frethemundo rege et martire.</rubric>
-                <incipit xml:lang="la-GB">Temporibus regum antiorum⸵ erat quidam rex in anglia Offa nomine.</incipit>
-                <explicit xml:lang="la-GB">postea oratorium fabricauit. ad laudem deum nostri Iesu Cristi. qui cum patre et spiritu sancto uiuit et regnat deus⸵ per omnia secula seculorum.</explicit>
+                <rubric xml:lang="la-GB">Incipit de sancto frethemundo rege et martire.</rubric>
+                <incipit xml:lang="la-GB">Temporibus regum antiorum⸵ erat quidam rex in anglia offa nomine.</incipit>
+                <explicit xml:lang="la-GB">postea oratorium fabricauit. ad laudem deum nostri ihesu cristi. qui cum patre et spiritu sancto uiuit et regnat deus⸵ per omnia secula seculorum.</explicit>
                 <note>Saint Fremund</note>
                 <bibl>BHL 3146</bibl>
               </msItem>
               <msItem>
                 <locus>fols 34v–36v</locus>
-                <rubric xml:lang="la-GB">Incipit de sancta Etheldreda uirgine et sororibus suis. Sexburga. Witburga et Ethelburga.</rubric>
-                <incipit xml:lang="la-GB">Vitam sancte Etheldride regine et uirginis scribit uenerabilis Beda in historia gentis Anglorum dicens. Accepit rex Egfridus</incipit>
+                <rubric xml:lang="la-GB">Incipit de sancta etheldreda uirgine et sororibus suis. sexburga. witburga et ethelburga.</rubric>
+                <incipit xml:lang="la-GB">Vitam sancte etheldride regine et uirginis scribit uenerabilis beda in historia gentis anglorum dicens.</incipit>
                 <explicit xml:lang="la-GB">uitans prolixitatem scribere dimicto.</explicit>
                 <note>Æthelthryth of East Anglia and her sisters Seaxburgh, Wihtburh, and Æthelburh</note>
               </msItem>
               <msItem>
                 <locus>fols 36v–38v</locus>
-                <rubric xml:lang="la-GB">Incipit de sancto Erkenwaldo episcopo.</rubric>
-                <incipit xml:lang="la-GB">Beatus Augustinus Anglorum apostolus qui primus uite tramitem</incipit>
-                <explicit xml:lang="la-GB">recto corde petentibus exhibetur. prestante domino nostro Iesu Cristo qui cum patre et spiritu sancto uiuit et regnat deus per omnia secula seculorum. Amen.</explicit>
+                <rubric xml:lang="la-GB">Incipit de sancto erkenwaldo episcopo.</rubric>
+                <incipit xml:lang="la-GB">Beatus augustinus anglorum apostolus qui primus uite tramitem</incipit>
+                <explicit xml:lang="la-GB">recto corde petentibus exhibetur. prestante domino nostro ihesu cristo qui cum patre et spiritu sancto uiuit et regnat deus per omnia secula seculorum. Amen.</explicit>
                 <note>Erkenwald of London</note>
               </msItem>
               <msItem>
                 <locus>fols 38v–41v</locus>
-                <rubric xml:lang="la-GB">Incipit de sancta Cuthburga uirgine et regina.</rubric>
-                <incipit xml:lang="la-GB">Anno ab incarnacione domini nostri iesu circiter sexcentesimo septuagesimo. extitit in Westsaxonia. quidam magne nobilitatis subregulus et denobili magnorum regum prosapia oriundus⸵ nomine Kenredus.</incipit>
-                <explicit xml:lang="la-GB">cecis reddita sunt lumina et operante Iesu Cristi nostri misericordia⸵ cuius maiestas et imperium permanet in infinita secula seculorum amen.</explicit>
+                <rubric xml:lang="la-GB">Incipit de sancta cuthburga uirgine et regina.</rubric>
+                <incipit xml:lang="la-GB">Anno ab incarnacione domini nostri ihesu circiter sexcentesimo septuagesimo. extitit in westsaxonia. quidam magne nobilitatis subregulus et denobili magnorum regum prosapia oriundus⸵ nomine kenredus.</incipit>
+                <explicit xml:lang="la-GB">cecis reddita sunt lumina et operante ihesu cristi nostri misericordia⸵ cuius maiestas et imperium permanet in infinita secula seculorum amen.</explicit>
                 <note>Cuthburh of Northumbria</note>
                 <bibl>BHL 2033</bibl>
               </msItem>
               <msItem>
                 <locus>fols 41v–43v</locus>
-                <rubric xml:lang="la-GB">Incipit de sancta Edburga uirgine.</rubric>
-                <incipit xml:lang="la-GB">In ciuitate Wyntoniensi est quoddam monasterium sanctimonialium in honore sancte dei genitricis constructum⸵ et ideo Albachia sancte Marie congrue nuncupatum.</incipit>
-                <explicit xml:lang="la-GB">Et quia pars reliquiarum apud Persoram deportabatur et pars Wyntonie dimictebatur. utrobique per sinodochie haberi predicatur.</explicit>
+                <rubric xml:lang="la-GB">Incipit de sancta edburga uirgine.</rubric>
+                <incipit xml:lang="la-GB">In ciuitate wyntoniensi est quoddam monasterium sanctimonialium in honore sancte dei genitricis constructum⸵ et ideo albachia sancte marie congrue nuncupatum.</incipit>
+                <explicit xml:lang="la-GB">Et quia pars reliquiarum apud persoram deportabatur et pars wyntonie dimictebatur. utrobique per sinodochie haberi predicatur.</explicit>
                 <note>Edburga of Winchester</note>
                 <bibl>BHL 2386</bibl>
               </msItem>
               <msItem>
                 <locus>fols 43v–45v</locus>
-                <rubric xml:lang="la-GB">Incipit de sancta Alfleda et sancta Merwinna uirginibus et abbatissis.</rubric>
-                <incipit xml:lang="la-GB">Rogante illustri ac xpianissimo Anglorum rege Eadgaro. fuit uir quidam generosus</incipit>
-                <explicit xml:lang="la-GB">translata digno cum honore. Vbi Cristus ob sponse sue merita⸵ innumera postentibus prestat beneficia ad laudem et gloriam nominis sui⸵ cui sit honor et imperium. per omnia secula seculorum. Amen.</explicit>
+                <rubric xml:lang="la-GB">Incipit de sancta alfleda et sancta merwinna uirginibus et abbatissis.</rubric>
+                <incipit xml:lang="la-GB">Rogante illustri ac xpianissimo anglorum rege eadgaro. fuit uir quidam generosus</incipit>
+                <explicit xml:lang="la-GB">translata digno cum honore. Vbi cristus ob sponse sue merita⸵ innumera postentibus prestat beneficia ad laudem et gloriam nominis sui⸵ cui sit honor et imperium. per omnia secula seculorum. Amen.</explicit>
                 <note>Elfleda and Merwinna of Romsey</note>
                 <bibl>Cf. BHL 2472</bibl>
               </msItem>
               <msItem>
                 <locus>fols 45v–48v</locus>
-                <rubric xml:lang="la-GB">Incipit de sancto Edwardo Anglorum rege et martire glorioso.</rubric>
-                <incipit xml:lang="la-GB">Inclitus rex Edwardus⸵ alto et nobilissimo regum antiquorum stemate in Britannia oriundus fuit.</incipit>
-                <explicit xml:lang="la-GB">qui erat annus ab incarnatione domini millesimus primus⸵ regnante eodem domino nostro Iesu Cristo⸵ qui cum patre et spiritu sancto uiuit et regnat per omnia seculorum secula amen.</explicit>
+                <rubric xml:lang="la-GB">Incipit de sancto edwardo anglorum rege et martire glorioso.</rubric>
+                <incipit xml:lang="la-GB">Inclitus rex edwardus⸵ alto et nobilissimo regum antiquorum stemate in britannia oriundus fuit.</incipit>
+                <explicit xml:lang="la-GB">qui erat annus ab incarnatione domini millesimus primus⸵ regnante eodem domino nostro ihesu cristo⸵ qui cum patre et spiritu sancto uiuit et regnat per omnia seculorum secula amen.</explicit>
                 <note>Edward of Wessex</note>
                 <bibl>Cf. BHL 2418</bibl>
               </msItem>
               <msItem>
                 <locus>fols 48v–50v</locus>
-                <rubric xml:lang="la-GB">Incipit de sancto Wlsino episcopo et confessore.</rubric>
-                <incipit xml:lang="la-GB">Clara deum lucerna ecclesie sanctus Wlfinus claris natalibus in principali anglorum ciuitate Londonia extitit generatus.</incipit>
-                <explicit xml:lang="la-GB">Eleuatum igitur est corpus sacrum. et in ecclesia transfertur et in locello nouo in dextro latere autentici altaris reconditur⸵ ubi supplicium uota secundum fidem suam exaudiuntur precante domino nostro Iesu Cristo amen.</explicit>
+                <rubric xml:lang="la-GB">Incipit de sancto wlsino episcopo et confessore.</rubric>
+                <incipit xml:lang="la-GB">Clara deum lucerna ecclesie sanctus wlfinus claris natalibus in principali anglorum ciuitate londonia extitit generatus.</incipit>
+                <explicit xml:lang="la-GB">Eleuatum igitur est corpus sacrum. et in ecclesia transfertur et in locello nouo in dextro latere autentici altaris reconditur⸵ ubi supplicium uota secundum fidem suam exaudiuntur precante domino nostro ihesu cristo amen.</explicit>
                 <note>Wulfsige of Sherborne</note>
                 <bibl>BHL 8753</bibl>
               </msItem>
               <msItem>
                 <locus>fols 50v–55v</locus>
-                <rubric xml:lang="la-GB">Incipit de sancto Alphego archiepiscopo cantuariensi et martire.</rubric>
-                <incipit xml:lang="la-GB">Principium nascendi splendidissimis natalibus trahens Alphegus totum litteralis</incipit>
+                <rubric xml:lang="la-GB">Incipit de sancto alphego archiepiscopo cantuariensi et martire.</rubric>
+                <incipit xml:lang="la-GB">Principium nascendi splendidissimis natalibus trahens alphegus totum litteralis</incipit>
                 <explicit xml:lang="la-GB">hac in parte non parum glorificauit.</explicit>
                 <note>Ælfheah (Alphege), archbishop of Canterbury</note>
                 <bibl>Cf. BHL 2518</bibl>
               </msItem>
               <msItem>
                 <locus>fols 55v–59v</locus>
-                <rubric xml:lang="la-GB">Incipit de sancto Wlstano episcopo wigorniensi.</rubric>
-                <incipit xml:lang="la-GB">Temporibus sancti Edwardi confessoris piissimi regis Anglie</incipit>
-                <explicit xml:lang="la-GB">a cunctis protegamur aduersis et eternis perfruamur gaudiis⸵ largiente domino nostro Iesu Cristo qui regnat nunc et in omnibus seculis Amen.</explicit>
+                <rubric xml:lang="la-GB">Incipit de sancto wlstano episcopo wigorniensi.</rubric>
+                <incipit xml:lang="la-GB">Temporibus sancti edwardi confessoris piissimi regis anglie</incipit>
+                <explicit xml:lang="la-GB">a cunctis protegamur aduersis et eternis perfruamur gaudiis⸵ largiente domino nostro ihesu cristo qui regnat nunc et in omnibus seculis Amen.</explicit>
                 <note>Wulfstan of Worcester</note>
               </msItem>
               <msItem>
                 <locus>fols 59v–68r</locus>
-                <rubric xml:lang="la-GB">Incipit de sancto Dunstano cantuariensi archiepiscopo.</rubric>
-                <incipit xml:lang="la-GB">Beatus Dunstanus ex nobilissima gente Anglorum prosapia originem ducens</incipit>
+                <rubric xml:lang="la-GB">Incipit de sancto dunstano cantuariensi archiepiscopo.</rubric>
+                <incipit xml:lang="la-GB">Beatus dunstanus ex nobilissima gente anglorum prosapia originem ducens</incipit>
                 <explicit xml:lang="la-GB">que cunctos terruerat seua examinatio.</explicit>
                 <note>Dunstan of Canterbury</note>
               </msItem>
               <msItem>
                 <locus>fols 68r–72v</locus>
-                <incipit xml:lang="la-GB">Sancte reconciliacionis Hugo quondam lyncolniensis episcopus de remotis finibus imperialis</incipit>
-                <explicit xml:lang="la-GB">qui inter ceteros sanctos suos celesium ei plenitudinem contulit gaudiorum⸵ Iesus Cristus dominus noster cui cum patre et spiritu sancto sit honor et gloria in secula seculorum Amen.</explicit>
+                <incipit xml:lang="la-GB">Sancte reconciliacionis hugo quondam lyncolniensis episcopus de remotis finibus imperialis</incipit>
+                <explicit xml:lang="la-GB">qui inter ceteros sanctos suos celesium ei plenitudinem contulit gaudiorum⸵ ihesus cristus dominus noster cui cum patre et spiritu sancto sit honor et gloria in secula seculorum Amen.</explicit>
                 <finalRubric xml:lang="la-GB">Explicit de sancto Hugone lyncolniensis episcopo.</finalRubric>
                 <note>Hugh of Lincoln</note>
                 <bibl>BHL 4022</bibl>
               </msItem>
               <msItem>
                 <locus>fols 72v–76r</locus>
-                <rubric xml:lang="la-GB">Incipit de sancto Milburga abbatissa et uirgine.</rubric>
-                <incipit xml:lang="la-GB">Beata uirgo Milburga regali ex progenie Cantuariorum Merciorum ac Francorum regum⸵ exorta refulsit.</incipit>
-                <explicit xml:lang="la-GB">peticionis sue effectum consequti sunt atque salutarem prestante hoc domino nostro Iesu Cristo cui sit honor decus et imperium per omnia secula seculorum.</explicit>
+                <rubric xml:lang="la-GB">Incipit de sancto milburga abbatissa et uirgine.</rubric>
+                <incipit xml:lang="la-GB">Beata uirgo milburga regali ex progenie cantuariorum merciorum ac francorum regum⸵ exorta refulsit.</incipit>
+                <explicit xml:lang="la-GB">peticionis sue effectum consequti sunt atque salutarem prestante hoc domino nostro ihesu cristo cui sit honor decus et imperium per omnia secula seculorum.</explicit>
                 <note>Milburga of Much Wenlock</note>
               </msItem>
               <msItem>
                 <locus>fols 76r–81r</locus>
-                <rubric xml:lang="la-GB">Incipit de sancto Oswaldo eboracensi archiepiscopo et confessore.</rubric>
-                <incipit xml:lang="la-GB">Gloriosus Cristi confessor Oswaldus eboracensis archiepiscopus exordium natiuitatis. ex nobilissima progenie nactus⸵</incipit>
-                <explicit xml:lang="la-GB">Res nota est. ipse eam uidi et manibus tenens mirabilia dei et merita sancti Oswaldi non parum miratus expaui.</explicit>
+                <rubric xml:lang="la-GB">Incipit de sancto oswaldo eboracensi archiepiscopo et confessore.</rubric>
+                <incipit xml:lang="la-GB">Gloriosus cristi confessor oswaldus eboracensis archiepiscopus exordium natiuitatis. ex nobilissima progenie nactus⸵</incipit>
+                <explicit xml:lang="la-GB">Res nota est. ipse eam uidi et manibus tenens mirabilia dei et merita sancti oswaldi non parum miratus expaui.</explicit>
                 <note>Oswald of Worcester</note>
                 <bibl>BHL 6379</bibl>
               </msItem>
               <msItem>
                 <locus>fols 81r–85v</locus>
-                <rubric xml:lang="la-GB">Incipit de sancto Athelwoldo wyntoniensi episcopo et confessore.</rubric>
-                <incipit xml:lang="la-GB">Temporibus regis Edwardi dicti senioris ex Cristianissimis parentibus Wyntonie ciuibus beatus Athelwoldus monachorum gemma futurus⸵ extitit oriundus.</incipit>
+                <rubric xml:lang="la-GB">Incipit de sancto athelwoldo wyntoniensi episcopo et confessore.</rubric>
+                <incipit xml:lang="la-GB">Temporibus regis edwardi dicti senioris ex cristianissimis parentibus wyntonie ciuibus beatus athelwoldus monachorum gemma futurus⸵ extitit oriundus.</incipit>
                 <explicit xml:lang="la-GB">Vbi in magna ut decet ueneracione usque in presentem diem habentur⸵ et celestia miracula frequentius perpetrantur.</explicit>
                 <note>Æthelwold of Winchester</note>
               </msItem>
               <msItem>
                 <locus>fols 86r–88r</locus>
-                <rubric xml:lang="la-GB">Incipit uita sancti Odonis cantuariensis episcopi.</rubric>
-                <incipit xml:lang="la-GB">Ex illustri prosapia licet pagana sanctus dei preciosus Odo oriundus⸵ uelut rosa redolentis</incipit>
+                <rubric xml:lang="la-GB">Incipit uita sancti odonis cantuariensis episcopi.</rubric>
+                <incipit xml:lang="la-GB">Ex illustri prosapia licet pagana sanctus dei preciosus odo oriundus⸵ uelut rosa redolentis</incipit>
                 <explicit xml:lang="la-GB">Laudemus in hiis et hiis similibus saluatorem nostrum⸵ qui prodigia magna per seruos suos operari non desinit in secula seculorum amen.</explicit>
                 <note>Odo of Canterbury</note>
               </msItem>
               <msItem>
                 <locus>fols 88r–91r</locus>
-                <rubric xml:lang="la-GB">Incipit passio beati Kenelmi martiris.</rubric>
-                <incipit xml:lang="la-GB">De beato Kenelmo in tota Anglia clarissimum est quod regis filius fuerit. quod patri</incipit>
+                <rubric xml:lang="la-GB">Incipit passio beati kenelmi martiris.</rubric>
+                <incipit xml:lang="la-GB">De beato kenelmo in tota anglia clarissimum est quod regis filius fuerit. quod patri</incipit>
                 <explicit xml:lang="la-GB">grates deo immolat excelsis laudis uocibus.</explicit>
                 <note>Kenhelm of Mercia</note>
               </msItem>
               <msItem>
                 <locus>fols 91r–95r</locus>
-                <rubric xml:lang="la-GB">Incipit de sancto Swythuno wyntoniensi episcopo.</rubric>
-                <incipit xml:lang="la-GB">Glorioso rege Anglorum Egberto regnante qui regi Kynegilso de ydolatria per beatum Birinum occidentalium</incipit>
+                <rubric xml:lang="la-GB">Incipit de sancto swythuno wyntoniensi episcopo.</rubric>
+                <incipit xml:lang="la-GB">Glorioso rege anglorum egberto regnante qui regi kynegilso de ydolatria per beatum birinum occidentalium</incipit>
                 <explicit xml:lang="la-GB">integre sanatus incedit. Omnipotentem deum in sancto suo glorificans et laudans⸵ cui sit laus et gloria per infinita secula Amen.</explicit>
                 <note>Swithun of Winchester</note>
                 <bibl>Cf. BHL 7943 (life); BHL 7944–7946 (translation and miracles); London, British Library, Arundel MS 169, fols 53r–60v.</bibl>
               </msItem>
               <msItem>
                 <locus>fols 95r–98v</locus>
-                <rubric xml:lang="la-GB">Incipit de sancto Wilfrido eboracensi archiepiscopo.</rubric>
-                <incipit xml:lang="la-GB">Anno ab incarnatione Verbi Dei sexcentesimo tricesimo quarto regnante in Cancia filio gloriosissimi Ethelberti</incipit>
+                <rubric xml:lang="la-GB">Incipit de sancto wilfrido eboracensi archiepiscopo.</rubric>
+                <incipit xml:lang="la-GB">Anno ab incarnatione uerbi dei sexcentesimo tricesimo quarto regnante in cancia filio gloriosissimi ethelberti</incipit>
                 <explicit xml:lang="la-GB">Hec de multis causa breuitatis strictim dicta sufficiunt.</explicit>
                 <note>Wilfrid of York</note>
               </msItem>
               <msItem>
                 <locus>fols 98v–101r</locus>
-                <rubric xml:lang="la-GB">Incipit de sancto Iohanne de Beruele eboracensi archiepiscopo et confessore.</rubric>
-                <incipit xml:lang="la-GB">Beatus Iohannes dictus de Beuerlaco eo forte quod gloriose eius reliquie</incipit>
+                <rubric xml:lang="la-GB">Incipit de sancto iohanne de beruele eboracensi archiepiscopo et confessore.</rubric>
+                <incipit xml:lang="la-GB">Beatus iohannes dictus de beuerlaco eo forte quod gloriose eius reliquie</incipit>
                 <explicit xml:lang="la-GB">deuoteque postentibus peticionum suarum effectum concedit salutarem. Ad laudem et gloriam nominis sui quod sit benedictum in secula.</explicit>
                 <note>John of Beverley</note>
               </msItem>
               <msItem>
                 <locus>fols 101r–104r</locus>
                 <rubric xml:lang="la-GB">Incipit de sancta Frideswida uirgine.</rubric>
-                <incipit xml:lang="la-GB">Tempore illo quo Anglia diuersis regibus</incipit>
+                <incipit xml:lang="la-GB">Tempore illo quo anglia diuersis regibus</incipit>
                 <explicit xml:lang="la-GB">Magnificatur igitur in uirgine sua saluator⸵ qui eam non impune lascessiri permisit iniuriis. Cui sit laus et gloria per infinita secula Amen.</explicit>
                 <note>Frideswide of Oxford</note>
                 <bibl>Seven-chapter summary of Frideswide's life (BHL 3166); her invention (source unknown, printed in Blair,
@@ -416,59 +416,59 @@
               </msItem>
               <msItem>
                 <locus>fols 104r–105v</locus>
-                <rubric xml:lang="la-GB">Incipit de sancto confessore Rumoldo.</rubric>
+                <rubric xml:lang="la-GB">Incipit de sancto confessore rumoldo.</rubric>
                 <incipit xml:lang="la-GB">Mirabilis deus in sanctis suis qui licet magna operatur in magnis⸵</incipit>
                 <explicit xml:lang="la-GB">langoribus grauatis sospitatis munus.</explicit>
                 <note>Rumwold of Buckingham</note>
               </msItem>
               <msItem>
                 <locus>fols 105v–107r</locus>
-                <rubric xml:lang="la-GB">Incipit de sancta Hilda abbatissa.</rubric>
-                <incipit xml:lang="la-GB">Regali ex progenie Hilda abbatissa exorta⸵ sicut clara extitit genere</incipit>
+                <rubric xml:lang="la-GB">Incipit de sancta hilda abbatissa.</rubric>
+                <incipit xml:lang="la-GB">Regali ex progenie hilda abbatissa exorta⸵ sicut clara extitit genere</incipit>
                 <explicit xml:lang="la-GB">In utroque uero monasterio per diuinorum miraculorum operationum apparet ipse deus in sancta sua gloriosus qui sit benedictus in secula.</explicit>
                 <note>Hilda of Whitby</note>
               </msItem>
               <msItem>
                 <locus>fols 107r–109r</locus>
-                <rubric xml:lang="la-GB">Incipit de sancto Wenefreda uirgine et martire.</rubric>
-                <incipit xml:lang="la-GB">Quia uirgo sancta Wennefreda sua corporali presencia Albathiam monachorum nigrorum apud Salopiam idest Srouesbury</incipit>
-                <explicit xml:lang="la-GB">Bt in hiis que de eius uita et translacione scrbuntur⸵ plenius et prolixius continetur.</explicit>
+                <rubric xml:lang="la-GB">Incipit de sancto wenefreda uirgine et martire.</rubric>
+                <incipit xml:lang="la-GB">Quia uirgo sancta wennefreda sua corporali presencia albathiam monachorum nigrorum apud salopiam idest srouesbury</incipit>
+                <explicit xml:lang="la-GB">Vt in hiis que de eius uita et translacione scrbuntur⸵ plenius et prolixius continetur.</explicit>
                 <note>Winifred of Wales/Shrewsbury</note>
                 <bibl>BHL 8852</bibl>
               </msItem>
               <msItem>
                 <locus>fols 109r–111v</locus>
-                <rubric xml:lang="la-GB">Incipit de sancto Ebba uirgine et abbatissa.</rubric>
-                <incipit xml:lang="la-GB">Virgo gloriosa uenerabilis Ebba omnium uirtutum dotibus insignata non solum erat sanctitatis</incipit>
+                <rubric xml:lang="la-GB">Incipit de sancto ebba uirgine et abbatissa.</rubric>
+                <incipit xml:lang="la-GB">Virgo gloriosa uenerabilis ebba omnium uirtutum dotibus insignata non solum erat sanctitatis</incipit>
                 <explicit xml:lang="la-GB">uel ad perpetuam perdicionem. districtius examinans tollat.</explicit>
                 <note>Eafe of Minster–in–Thanet</note>
               </msItem>
               <msItem>
                 <locus>fols 111v–113r</locus>
-                <rubric xml:lang="la-GB">Incipit de sancto Brinstano wintoniensi episcopo.</rubric>
-                <incipit xml:lang="la-GB">Vir uenerabilis Brinstanus. tempore gloriosi regis Adelstani in Wentana urbe post decssum sancti ac beati Fridestani</incipit>
-                <explicit xml:lang="la-GB">Cuius corpus Paulopus de terra translatum inter sacras ecclesie reliquias honorifice est reconditum.</explicit>
+                <rubric xml:lang="la-GB">Incipit de sancto brinstano wintoniensi episcopo.</rubric>
+                <incipit xml:lang="la-GB">Vir uenerabilis brinstanus. tempore gloriosi regis adelstani in wentana urbe post decssum sancti ac beati fridestani</incipit>
+                <explicit xml:lang="la-GB">Cuius corpus paulopus de terra translatum inter sacras ecclesie reliquias honorifice est reconditum.</explicit>
                 <note>Beornstan of Winchester</note>
                 <bibl>BHL 1365</bibl>
               </msItem>
               <msItem>
                 <locus>fols 113r–114r</locus>
-                <rubric xml:lang="la-GB">Incipit de sancto Alphego wyntoniensi episcopo.</rubric>
-                <incipit xml:lang="la-GB">Beato Brinstano wintoniensi episcopo ad celestia regna translato⸵</incipit>
+                <rubric xml:lang="la-GB">Incipit de sancto alphego wyntoniensi episcopo.</rubric>
+                <incipit xml:lang="la-GB">Beato brinstano wintoniensi episcopo ad celestia regna translato⸵</incipit>
                 <explicit xml:lang="la-GB">Cuius corpus in ecclesia quam strenue rexerat primo sepultum postea uero honorifice translatum inter sanctos illius ecclesie patronos honorifice ueneratur.</explicit>
                 <note>Ælfheah of Winchester</note>
               </msItem>
               <msItem>
                 <locus>fols 114r–116r</locus>
-                <rubric xml:lang="la-GB">Incipit de sancto Ced Orientalium Saxonum episcopo.</rubric>
+                <rubric xml:lang="la-GB">Incipit de sancto ced orientalium saxonum episcopo.</rubric>
                 <incipit xml:lang="la-GB">De eximie sanctitatis uiro sancto Ced qui nacione fuit Anglicus</incipit>
                 <explicit xml:lang="la-GB">et aliis quoque fratribus ministerium uite et salutis docendo exhiberet.</explicit>
                 <note>Cedd of Northumbria</note>
               </msItem>
               <msItem>
                 <locus>fols 116r–121v</locus>
-                <rubric xml:lang="la-GB">Incipit de sancto Roberto Noui monasterii Abbate.</rubric>
-                <incipit xml:lang="la-GB">Beatus Robertus ex prouincia Eboraci que Crauene dicitur oriundus extitit.</incipit>
+                <rubric xml:lang="la-GB">Incipit de sancto roberto noui monasterii abbate.</rubric>
+                <incipit xml:lang="la-GB">Beatus robertus ex prouincia eboraci que crauene dicitur oriundus extitit.</incipit>
                 <explicit xml:lang="la-GB">Hec pauca de multis dicta sufficiant.</explicit>
                 <note>Robert of Newminster</note>
                 <bibl>BHL 7268; printed by
@@ -478,15 +478,15 @@
               </msItem>
               <msItem>
                 <locus>fols 121v–126v</locus>
-                <rubric xml:lang="la-GB">Incipit de sancto Godrico heremita.</rubric>
-                <incipit xml:lang="la-GB">S. Godricus in Norfolca in uilla que Hanepol nominatur</incipit>
-                <explicit xml:lang="la-GB">duodecimo kalendas Iunii feria quinta octaua die ascensionis domini⸵ cuius merita peccatorum nobis ueniam et annuente domino uitam in futuro conferant sempiternam. Amen.</explicit>
+                <rubric xml:lang="la-GB">Incipit de sancto godrico heremita.</rubric>
+                <incipit xml:lang="la-GB">Sanctus godricus in norfolca in uilla que hanepol nominatur</incipit>
+                <explicit xml:lang="la-GB">duodecimo kalendas iunii feria quinta octaua die ascensionis domini⸵ cuius merita peccatorum nobis ueniam et annuente domino uitam in futuro conferant sempiternam. Amen.</explicit>
                 <note>Godric of Finchale</note>
               </msItem>
               <msItem>
                 <locus>fols 126v–131v</locus>
-                <rubric xml:lang="la-GB">Incipit de sancta Modwenna abbatissa uirgine.</rubric>
-                <incipit xml:lang="la-GB">Beata modwenna uirgo de conualleorum populo hiberni filia regis Augthei procreata fuit.</incipit>
+                <rubric xml:lang="la-GB">Incipit de sancta modwenna abbatissa uirgine.</rubric>
+                <incipit xml:lang="la-GB">Beata modwenna uirgo de conualleorum populo hiberni filia regis augthei procreata fuit.</incipit>
                 <explicit xml:lang="la-GB">compilacioni predictam perlegat et plurima inueniet admiranda.</explicit>
                 <note>Modwenna of Burton</note>
                 <bibl>BHL 2098</bibl>
@@ -506,9 +506,9 @@
               </msItem>
               <msItem>
                 <locus>fol. 131v</locus>
-                <rubric xml:lang="la-GB">Incipit de sancto Wlfrico incluso de Hasselerge confessore.</rubric>
-                <incipit xml:lang="la-GB">Beatus Wlfricus de mediocri Anglorum gente.</incipit>
-                <explicit xml:lang="la-GB" defective="true">in principio regni regis Henrici primi. moneta noua</explicit>
+                <rubric xml:lang="la-GB">Incipit de sancto wlfrico incluso de hasselerge confessore.</rubric>
+                <incipit xml:lang="la-GB">Beatus wlfricus de mediocri anglorum gente.</incipit>
+                <explicit xml:lang="la-GB" defective="true">in principio regni regis henrici primi. moneta noua</explicit>
                 <note>Wulfric of Haselbury; ends imperfectly.</note>
                 <bibl>Cf. BHL 8743</bibl>
               </msItem>
@@ -844,7 +844,7 @@ pie<lb break="no"/>tatis tue largitate michi rerum
 indi<lb break="no"/>g<subst><del rend="expunct">o</del><add place="above">entie</add></subst> et salutis clementer succurre.</said> Cui
 <lb/>uir dei. <said>Argentum et aurum non est
 <lb/>michi⸵ quod autem habeo hoc tibi do. Surge
-<lb/>sanus in nomine domini nostri <persName>iesu</persName> <persName>cristi</persName>.</said> Vix
+<lb/>sanus in nomine domini nostri <persName>ihesu</persName> <persName>cristi</persName>.</said> Vix
 <lb/>elocutus erat⸵ et infirmus qui se
 <lb/>hactenus mouere non poterat. tanta
 <lb/>uerbi potencia curatus exiliit.
@@ -910,7 +910,7 @@ in<lb break="no"/>iuriis illatis ita ut caudas
 raca<lb break="no"/>rum uestibus sancti affigerent eum cum suis
 <lb/>impellit propellit et expellit.
 Paci<lb break="no"/>enter ille et modeste gaudensque pro
-<lb/>nomine <persName>iesu</persName> contumeliam pati et ne
+<lb/>nomine <persName>ihesu</persName> contumeliam pati et ne
 <lb/>magis miserorum irritaret insaniam
 <lb/>excusso pedum in eos puluere longe
 <lb/>quasi quinque miliaribus cum suis recessit
@@ -942,7 +942,7 @@ opera<lb break="no"/>ri cibum qui perit set qui permanet
 <lb/>genibus adorans in loco ubi
 ste<lb break="no"/>terunt pedes domini. et quasi ipsa domini
 <lb/>ostulans uestigia lacrimis
-riga<lb break="no"/>bat⸵ sempiternamque dilectionem <persName>iesu</persName>
+riga<lb break="no"/>bat⸵ sempiternamque dilectionem <persName>ihesu</persName>
 <lb/>aromatizabat.
 </p>
 </div>
@@ -1219,7 +1219,7 @@ ter<lb break="no"/>rena transcendentes dicebant. <said>Isti
 <lb/>suo errore⸵ psalmista testante.
 <lb/><quote synch="Ps46.10">Dii fortes terre uehementer
 ele<lb break="no"/>uati sunt.</quote> Hactenus itaque in domita
-<lb/>colla suaue iugum domini <persName>iesu</persName>
+<lb/>colla suaue iugum domini <persName>ihesu</persName>
 amabi<lb break="no"/>liter subicere⸵ et suscepere fecunda
 <lb/>arua i<choice><sic>m</sic><corr>n</corr></choice> perpetuos fructus uite
 se<lb break="no"/>mina. Credidere itaque plurimi et
@@ -1535,7 +1535,7 @@ Explicit
 <lb/>ex mea reuelacione. Tantumque res<lb break="no"/>tat missas dedicationis populo
 <lb/>confluo peragat⸵ et absolucioni et bene<lb break="no"/>dictioni mea uice impenda<del rend="expunct">n</del>t.
 <lb/>Ac ne quid dubites de auctore 
-<lb/>mandati⸵ ego sum <name>Petrus</name> apostolus <name>iesu
+<lb/>mandati⸵ ego sum <name>Petrus</name> apostolus <name>ihesu
 <lb/>cristi</name> domini nostri; qui hunc loquor tibi 
 <lb/>et mando sibi.</said> Dixit et abscessit⸵
 <lb/>piscatorem<surplus> </surplus>que reliquit. Vt igitur ille
@@ -2301,7 +2301,7 @@ pre<lb break="no"/>cedentes ocior uolucre auolat.
 intimaue<lb break="no"/>runt. Pro quibus omnibus deum
 laude<lb break="no"/>mus. ipsamque uirgine humili prece
 <lb/>deposcamus; ut nobis peccatoribus apud
-<lb/>dominum nostrum <persName>iesum <persName>cristum</persName></persName> subuenire
+<lb/>dominum nostrum <persName>ihesum <persName>cristum</persName></persName> subuenire
 dig<lb break="no"/>netur⸵ qui uiuit et regna cum deo
 <lb/>patre in unitate spiritus sancti deus per
 <lb/>omnia secula seculorum amen.
@@ -2329,7 +2329,7 @@ Expli<lb break="no"/>cit de sancta <persName>ositha</persName> uirgine et martir
 <div type="textpart" subtype="capitulum" n="1">
 <p>
 <lb/>Anno ab incarnacione
-<lb/>domini nostri <persName ref="https://wikidata.org/wiki/Q302">iesu</persName> circiter
+<lb/>domini nostri <persName ref="https://wikidata.org/wiki/Q302">ihesu</persName> circiter
 <lb/>sexcentesimo septua<lb break="no"/>gesimo. extitit in <placeName ref="https://wikidata.org/wiki/Q105313">west<lb break="no"/>saxonia</placeName>. quidam magne nobilita<lb break="no"/>tis subregulus; de nobili mag<lb break="no"/>norum regum prosapia<!-- prosepia Fletcher --> oriundus⸵ nomine
 <lb/><persName ref="https://wikidata.org/wiki/Q886103">kenredus</persName>. Iste <persName ref="https://wikidata.org/wiki/Q886103">kenredus</persName> ge<lb break="no"/>nuit sanctum <persName ref="https://wikidata.org/wiki/Q451580">yne</persName> et fratrem eius <persName ref="https://wikidata.org/wiki/Q25990706">yniels</persName> et
 <lb/>beatam <persName ref="https://wikidata.org/wiki/Q5196821">cudburgam</persName> et sororem eius sanctam
@@ -2407,8 +2407,8 @@ Audito igitur uirginis responso
 <lb/>uirgo <persName ref="https://wikidata.org/wiki/Q5196821">Cudburga</persName> secreto sola
 <lb/>cubicularem ingressa thalamum
 <lb/>talem dicitur oracionem fudisse ad dominum.
-<lb/><said>Domine <persName ref="https://wikidata.org/wiki/Q302">iesu</persName> dominator uniuerse crea<lb break="no"/>ture; inclina pias aures ad
-<lb/>preces ancille tue. Bone <persName ref="https://wikidata.org/wiki/Q302">iesu</persName>
+<lb/><said>Domine <persName ref="https://wikidata.org/wiki/Q302">ihesu</persName> dominator uniuerse crea<lb break="no"/>ture; inclina pias aures ad
+<lb/>preces ancille tue. Bone <persName ref="https://wikidata.org/wiki/Q302">ihesu</persName>
 <lb/>dominator<!-- donator Fletcher --> castitatis sanctificator uir<pb n="39v" break="no"/><cb n="a" break="no"/><lb break="no"/>ginitatis intende queso oracionem mee<!-- meam Fletcher -->
 <lb/>paruitatis⸵<!-- prauitatis Fletcher --> et ascendat deprecacio mea
 <lb/>in conspectu tue maiestatis. Te solum
@@ -2498,7 +2498,7 @@ Audito igitur uirginis responso
 <lb/>me.</quote> Set tum<!-- cum Fletcher/Rushforth --> nupcias a domino mortali<lb break="no"/>bus propter sobolis propagacionem concessas
 <lb/>credimus; et ipsius saluatoris presencia
 <lb/>sanctificatas. euangelica auctoritate
-<lb/>comprobamus. Ipse enim dominus<!-- dns Rushforth --> <persName ref="https://wikidata.org/wiki/Q302">iesus</persName> salua<lb break="no"/>tor mundi euangelio teste nupciis
+<lb/>comprobamus. Ipse enim dominus<!-- dns Rushforth --> <persName ref="https://wikidata.org/wiki/Q302">ihesus</persName> salua<lb break="no"/>tor mundi euangelio teste nupciis
 <lb/>interfuit; ut eas approbare intelligeretur
 <lb/>in eisdem nupciis nouo et inusitato
 <lb/><seg synch="John2.1-11">miraculo aquam in uinum optimum mu<lb break="no"/>tauit</seg>. <persName ref="https://wikidata.org/wiki/Q9200">Paulus</persName> eciam apostolus doctor
@@ -2530,7 +2530,7 @@ Audito igitur uirginis responso
 <lb/>permansit. Sponsum eciam ipsarum nup<lb break="no"/>ciarum quibus saluator interfuit. ab ipsis
 <lb/>nupciis ut tradunt historie aspira<lb break="no"/>cione interna abstraxit⸵ et tocius car<lb break="no"/>nalis copule immunem perseuerare
 <lb/>uirginem fecit; et in tantum eum di<lb break="no"/>lexit. ut apostolus et euangelista ef<lb break="no"/>fici mereretur; et discipulus ille quem
-<lb/>diligebat <persName ref="https://wikidata.org/wiki/Q302">iesus</persName> uocaretur⸵ et supra
+<lb/>diligebat <persName ref="https://wikidata.org/wiki/Q302">ihesus</persName> uocaretur⸵ et supra
 <lb/>omnem creaturam diuinitatis gloriam
 <lb/>intueretur. <seg synch="John 19.25–27">Cui enim saluator noster
 <lb/>in cruce iam positus matrem uirginem
@@ -2566,7 +2566,7 @@ Audito igitur uirginis responso
 <lb/>tenere pudiciciam⸵ concedatque tibi
 <lb/>deus talem inchoate religionis ha<lb break="no"/>bere perseueranciam; quatinus<!--quatenus Fletcher/Rushforth--> post huius
 <lb/>uite peregrinacionem. ad summe diuinita<lb break="no"/>tis merearis pertingere contemplacionem.
-<lb/>Pro me eciam benignum <persName ref="https://wikidata.org/wiki/Q302">iesum</persName> assidu<lb break="no"/>is precibus interpellare non desistas⸵
+<lb/>Pro me eciam benignum <persName ref="https://wikidata.org/wiki/Q302">ihesum</persName> assidu<lb break="no"/>is precibus interpellare non desistas⸵
 <lb/>ut michi sue spiritum dilectionis infundat⸵
 <lb/>quo inbutus omnes mundiales<!-- mundales Fletcher --> paruipen<lb break="no"/>dam honores et diuicias; et presen<lb break="no"/>tis uite superare queam illecebras⸵
 <lb/>quatenus <quote synch="Tit2.12">iuste et sancte uiuens in hoc presen<lb break="no"/>ti seculo.</quote> dei ualeam consequi misericordiam
@@ -2683,7 +2683,7 @@ Audito igitur uirginis responso
 <lb/>famulatum. Sepulta est autem condigno
 <lb/>honore in eadem quam edifica<lb break="no"/>uerat sancte dei genitricis basili<lb break="no"/>ca⸵ ubi meritis ipsius plurima facta
 <lb/>sunt miracula. et multa infirmantibus
-<lb/>prestita sunt beneficia⸵ claudis gres<lb break="no"/>sus. surdis auditus. cecis red<lb break="no"/>dita sunt lumina; operante <persName ref="https://wikidata.org/wiki/Q302">iesu
+<lb/>prestita sunt beneficia⸵ claudis gres<lb break="no"/>sus. surdis auditus. cecis red<lb break="no"/>dita sunt lumina; operante <persName ref="https://wikidata.org/wiki/Q302">ihesu
 <lb/>cristi</persName> nostri misericordia⸵ cuius maiestas et
 <lb/>imperium permanet in infinita se<lb break="no"/>cula seculorum amen.
 </p>
@@ -2773,7 +2773,7 @@ Incipit
 <lb/>beata uirgo suspiciens sursum clara
 <lb/>uoce dixit. <said><quote synch="Ps9.19">Exurge domine non
 <lb/>confortetur homo<supplied reason="omitted">⸵</supplied> iudicentur gentes
-<lb/>in conspectu tuo.</quote> <quote synch="Ps35.2">A<supplied reason="omitted">p</supplied>prehend<subst><del rend="altered">a</del><add place="overstrike">e</add></subst> ar<lb break="no"/>ma et scutum et exurge in ad<lb break="no"/>iutorium michi.</quote> <quote synch="Ps34.3">Dic anime mee salus
+<lb/>in conspectu tuo.</quote> <quote synch="Ps35.2">Apprehend<subst><del rend="altered">a</del><add place="overstrike">e</add></subst> ar<lb break="no"/>ma et scutum et exurge in ad<lb break="no"/>iutorium michi.</quote> <quote synch="Ps34.3">Dic anime mee salus
 <lb/>t<del rend="expunct">a</del>ua ego sum.</quote></said> Hec cum dixisset
 <lb/>ex<supplied reason="omitted">c</supplied>ecati sunt oculi eorum. Quod
 <lb/>cum uidissent populi ciuitatis ex<lb break="no"/>pauefacti corruerunt ad pedes
@@ -2792,7 +2792,7 @@ Incipit
 <lb/>dicens. <said>O uas electum sancti spiritus
 <lb/>noli timere minas funesti regis
 <lb/>quia <quote synch="Ps16.8">sub umbra alarum suarum proteget
-<lb/>te</quote> <persName ref="https://wikidata.org/wiki/Q302">iesus cristus</persName>. Pergens igitur ad
+<lb/>te</quote> <persName ref="https://wikidata.org/wiki/Q302">ihesus cristus</persName>. Pergens igitur ad
 <lb/>amnem habe tecum quascumque uo<lb break="no"/>lueris sanctimoniales feminas⸵ in<lb break="no"/>uenies nauem preparatam a deo et
 <lb/>nautam intrantesque nauem deducet
 <lb/>uos dominus omnipotens in uiam rectam⸵
@@ -2859,11 +2859,11 @@ Incipit
 <lb/>demonio arreptus uinculisque ligatus.
 <lb/>ad ipsam esset adductus signum sancte
 <lb/>crucis fecit in frotem eius. ita di<lb break="no"/>cens. Precipio tibi <persName ref="https://wikidata.org/wiki/Q35230">sathana</persName> in nomine
-<lb/><persName ref="https://wikidata.org/wiki/Q302">iesu cristi</persName> ut recedas ali hac yma<lb break="no"/>gine dei. Hoc cum dixisset factus
+<lb/><persName ref="https://wikidata.org/wiki/Q302">ihesu cristi</persName> ut recedas ali hac yma<lb break="no"/>gine dei. Hoc cum dixisset factus
 <lb/>est uelut mortuus cecidit quique in terram.
 <lb/>Beata autem uirgo iussit eum solui.
 <lb/>Cumque solutus esset tenuit manum
-<lb/>eius et dixit. <said>In nomine <persName ref="https://wikidata.org/wiki/Q302">iesu cristi</persName>
+<lb/>eius et dixit. <said>In nomine <persName ref="https://wikidata.org/wiki/Q302">ihesu cristi</persName>
 <lb/><placeName ref="https://wikidata.org/wiki/Q430776">nazareni</placeName> surge incolumis.</said> Et
 <lb/>surexit sanus cepitque glorificare
 <lb/>deum qui eum liberauit per merita sancte
@@ -2883,7 +2883,7 @@ Incipit
 <lb/>occurrit ei quidam iuuenis plenus
 <lb/>lepra⸵ dixitque ei. <said>Adiuro te o
 <lb/><persName ref="https://wikidata.org/wiki/Q1314431">Frideswida</persName> uirgo ut des michi
-<lb/>osculum in nomine <persName ref="https://wikidata.org/wiki/Q302">iesu cristi</persName>.</said> Illa
+<lb/>osculum in nomine <persName ref="https://wikidata.org/wiki/Q302">ihesu cristi</persName>.</said> Illa
 <lb/>semper ut erat repleta spiritu sancto⸵
 <lb/>faciens signum crucis dedit ei
 <lb/>osculum in nomine deum. et statim mun<lb break="no"/>datus est a lepra. Videntes populi
@@ -2928,7 +2928,7 @@ Incipit
 <lb/>non uidetis beatas uirgines dei <persName ref="https://wikidata.org/wiki/Q179718">ka<lb break="no"/>terinam</persName> ac <persName ref="https://wikidata.org/wiki/Q80513">ceciliam</persName>?</said> Cumque loque<lb break="no"/>retur iterum ad eas. dixit audien<lb break="no"/>tibus cunctis. <said>Modo ueniam domine
 <lb/>mee.</said> Post tercium itaque galli cantum
 <lb/>sicut predixerat ualedicens omnibus⸵
-<lb/>ad dominum <persName ref="https://wikidata.org/wiki/Q302">iesum cristum</persName> migrauit;
+<lb/>ad dominum <persName ref="https://wikidata.org/wiki/Q302">ihesum cristum</persName> migrauit;
 <lb/>atque in loco ab ea designato ho<lb break="no"/>norifice sepulta fuit. In hora
 <lb/>autem transitus eius tanta lux efful<lb break="no"/>sit per uniuersam ciuitatem <placeName ref="https://wikidata.org/wiki/Q34217">oxene<lb break="no"/>fordie</placeName>⸵ tatna test suauitas odoris
 <lb/>trium horarum spacio fragrauit ut
@@ -3231,7 +3231,7 @@ inuenis<lb break="no"/>sent nequeunt illum de loco in quo
 <lb/>iacebat mouere⸵ neque aliquo ingenio
 <lb/>a terra extrahere. Tunc sanctus
 <persName>Ru<lb break="no"/>moldus</persName> conuocat presbiteros illisque
-<lb/>iubet ut nomine domini nostri <persName>iesu</persName> <persName>cristi</persName>
+<lb/>iubet ut nomine domini nostri <persName>ihesu</persName> <persName>cristi</persName>
 <lb/>ac sancte trinitatis soli sine aliis
 <lb/>pergant saxumque indubii
 accipi<lb break="no"/>ant sine hesitacionem in summo
@@ -4127,7 +4127,7 @@ Incipit de sancto
 <lb/>nunc te uocante. te impediente.
 <lb/>dissipatum est consilium meum et ua<lb break="no"/>cuus redeo inanis recedo.</said> Ad
 <lb/>hec uir dei ingemiscens et tantam
-<lb/>diaboli maliciam miratus⸵ ait. <said>Pre<lb break="no"/>cipio tibi in nomine domini nostri <persName ref="https://wikidata.org/wiki/Q302">iesu cristi</persName>
+<lb/>diaboli maliciam miratus⸵ ait. <said>Pre<lb break="no"/>cipio tibi in nomine domini nostri <persName ref="https://wikidata.org/wiki/Q302">ihesu cristi</persName>
 <lb/>ut ad tale ministerium ultra non rede<lb break="no"/>as. set deserta petens et inuia⸵ homini<lb break="no"/>bus illudere nunquam presumas.</said> Ad
 <lb/>hanc uocem inimicus liquefactus eua<lb break="no"/>nuit. indubia malicie sue relin<lb break="no"/>quens indicia. Nam tantus horror
 <lb/>inuasit monachos. qui cum eo erant⸵
