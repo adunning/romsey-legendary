@@ -1306,7 +1306,7 @@ uicesi<lb break="no"/>mo quarto mensis Februarii
 accep<lb break="no"/>te fidei atque in porticu sancti
 <persName>mar<lb break="no"/>tini</persName> intro ecclesiam sanctorum apostolorum
 <lb/><persName>petri</persName> et <persName>pauli</persName> sepultus ubi et
-<persName>Ber<lb break="no"/>ta</persName> regina sua condita est.<!-- note hidden in the margin: 'hic ***ra': check at BL --> Post
+<persName>Ber<lb break="no"/>ta</persName> regina sua condita est.<!-- chk: note in the margin, 'hic plura', but what is this for? --> Post
 <lb/>cuius mortem cum filius euis
 <persName>Eadbal<lb break="no"/>dus</persName> regni gubernacula
 susce<lb break="no"/>pisset⸵ magno tenellis ibi adhuc
@@ -1761,6 +1761,18 @@ Explicit
 </text>
 
 
+<!--hidden in the margin: -->
+<!--
+<pb n="22r"/>
+<lb/>cedda episcopus esset ordinatus⸵
+<lb/>
+miserat egfridus oswy regis filius de patris uoluntate cum patre -->
+<!--
+
+<pb n="23r"/>
+<lb/>in ili intus lectioni uatabant⸵ ipse fo<lb break="no"/>ris <add place="left">que</add> opus esse uidebantur operabutur.
+ -->
+
 
 <text xml:id="Werburgh">
 <body>
@@ -1865,7 +1877,7 @@ resplen<lb break="no"/>dere⸵ qui nimirum uirtutem poterat
 <lb/>Pulcre sane id actum est prudencia⸵
 <lb/>ut sacre institucionis cuius perfecta
 <lb/>erat discipula⸵ in salutem multorum
-<lb/>decentissima f<subst><del rend="erased"><unclear>orae</unclear></del><add place="right">oret</add></subst> magistra. Rex
+<lb/>decentissima f<subst><del rend="erased"><unclear>ore</unclear></del><add place="right">oret</add></subst> magistra. Rex
 <lb/>uero iam magis ac magis cepit
 <lb/>imperii tedere⸵ dum se reputaret
 <lb/>inter secularia negocia quasi animal
@@ -1873,7 +1885,7 @@ resplen<lb break="no"/>dere⸵ qui nimirum uirtutem poterat
 pen<lb break="no"/>nis meritorum ad celum uolitare.
 <pb n="28r"/>
 <cb n="a"/>
-<!-- Not sure what the annotation is at the top of this page. Someone will have to check it at the BL some day. -->
+<!-- chk: annotation at the top of this page, '+ [std correction mark] posteritas' [poste...as]; where does it belong? -->
 <lb/>Et quid plura? Non quieuit estus
 <lb/>spiritus sui donec uicesimo nono regni
 <lb/>sui anno in <persName>Bartheniensi</persName> cenobio
@@ -2219,7 +2231,7 @@ eccle<lb break="no"/>siam apostolorum <persName>petri</persName> et <persName>pa
 <lb/>transtulerunt⸵ et in medio choro cum
 <lb/>sarcophago posuerunt. Deinde
 <lb/><persName>mauricius</persName> <placeName>londoniensis</placeName> episcopus corpus
-<lb/>ipsius leuauit⸵ et post maius altare
+<lb/>ipsius leuauit⸵ et post maius altare <!-- chk: in margin, 'collo...ra' [collocatura?], but no indication of where it lives -->
 <lb/>honestissime. Cuius festam nonas
 <lb/>octobris manifestamus esse colendum
 <lb/>quia eodem die pro <persName>cristo</persName> mortem temporalem
@@ -2315,6 +2327,13 @@ Expli<lb break="no"/>cit de sancta <persName>ositha</persName> uirgine et martir
 </div>
 </body>
 </text>
+
+<!--
+
+
+<pb n="32r"/>
+<lb/>sue contra mature modum loquelam edidit<del rend="erased">i</del> et de prefato -->
+<!--chk: 'roge puero' in margin, no placement -->
 
 
 
@@ -2699,6 +2718,15 @@ Explicit
 </body>
 </text>
 
+<!--
+<pb n="44r"/>
+<lb/>a done memorie Ethel<lb break="no"/>woldo Wyntonensi episcopo⸵ ipsam fece -->
+<!--chk: 'comparatur' in margin, no placement -->
+<!--
+<lb/>Et ut sancti<lb break="no"/>tatem suam posset occultare. et -->
+<!--'extra' in margin, no placement -->
+<!--[these annotations are in the same hand as 'miraculum' repeated further on and may just be notes] -->
+
 
 <pb n="101r"/>
 <cb n="b"/>
@@ -2864,7 +2892,7 @@ Incipit
 <lb/>Beata autem uirgo iussit eum solui.</p> <p><lb/>Cumque solutus esset tenuit manum
 <lb/>eius et dixit. <said><quote type="Bible">In nomine <persName ref="https://wikidata.org/wiki/Q302">ihesu cristi</persName>
 <lb/><placeName ref="https://wikidata.org/wiki/Q430776">nazareni</placeName> surge</quote> incolumis.</said></p> <p>Et
-<lb/>surrexit<!-- chk --> sanus cepitque glorificare
+<lb/>sur<supplied reason="omitted">r</supplied>exit sanus cepitque glorificare
 <lb/>deum qui eum liberauit per merita sancte
 <lb/><persName ref="https://wikidata.org/wiki/Q1314431">Frideswide</persName>.<!-- end quotation of Life A -->
 </p>
@@ -2883,7 +2911,7 @@ Incipit
 <lb/>lepra⸵ dixitque ei. <said>Adiuro te o
 <lb/><persName ref="https://wikidata.org/wiki/Q1314431">Frideswida</persName> uirgo ut des michi
 <lb/>osculum in nomine <persName ref="https://wikidata.org/wiki/Q302">ihesu cristi</persName>.</said></p> <p>Illa
-<lb/>semper ut<!-- chk: ut semper N --> erat repleta spiritu sancto⸵
+<lb/>semper ut<!-- ut semper N --> erat repleta spiritu sancto⸵
 <lb/>faciens signum crucis dedit ei
 <lb/>osculum in nomine deum. et statim mun<lb break="no"/>datus est a lepra. Videntes populi
 <lb/>urbis illius omnisque clerus que
@@ -2929,7 +2957,7 @@ Incipit
 <lb/>sicut predixerat ualedicens omnibus⸵
 <lb/>ad dominum <persName ref="https://wikidata.org/wiki/Q302">ihesum cristum</persName> migrauit;
 <lb/>atque in loco ab ea designato ho<lb break="no"/>norifice sepulta fuit. In hora
-<lb/>autem transitus eius tanta lux efful<lb break="no"/>sit per uniuersam ciuitatem <placeName ref="https://wikidata.org/wiki/Q34217">oxene<lb break="no"/>fordie</placeName>⸵ tantaque<!-- chk --> suauitas odoris
+<lb/>autem transitus eius tanta lux efful<lb break="no"/>sit per uniuersam ciuitatem <placeName ref="https://wikidata.org/wiki/Q34217">oxene<lb break="no"/>fordie</placeName>⸵ tanta est<!-- emend? --> suauitas odoris
 <lb/>trium horarum spacio fragrauit ut
 <lb/>omnes mirarentur. et glorificarent
 <lb/>deum.<!-- end quotation from Life A -->
