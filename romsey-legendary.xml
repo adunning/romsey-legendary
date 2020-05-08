@@ -802,12 +802,12 @@ nume<lb break="no"/>rus. ut in septem turmas distinti
 <lb/>hominibus haberetur⹎ qui omnes labore
 <lb/>manuum uictitabant; quorum summa⹎
 <lb/>ultra dua milia censebatur. Hii omnes
-<lb/>orationum et triduam ieiunii armis⹎
+<lb/>oracionum et triduam ieiunii armis⹎
 <lb/>contra regem predictum militabant.
 <lb/>Quos in tuciori loco compositos ubi
 <lb/>rex uidit et causam perpendit⹎ <said>proth</said>
 <lb/>inquit <said>contra nos isti inermi dextra
-<lb/>set armata oratione pugnant; atque
+<lb/>set armata oracione pugnant; atque
 <lb/>in nos deum suum omni pugna
 acer<lb break="no"/>biu<add place="overstrike">s</add> exagitant.</said> <said>Hanc</said> inquit
 <said>per<lb break="no"/>inciosiorem aciem primum debeamus.</said>
@@ -2755,7 +2755,7 @@ Incipit
 <lb/>a religioso uiro <persName>orgaro</persName> <placeName ref="https://wikidata.org/wiki/Q2501001">lincolniensi</placeName>
 <lb/>episcopo cum aliis duodecim uirginibus preela<lb break="no"/>ta extitit atque domino <surplus><unclear>d</unclear></surplus> consecrata.</p>
 <p><lb/><!-- begin quotation of Life A -->Fecit itaque prefatus rex ibi edifica<lb break="no"/>ri domos. que conueniunt sanctimo<lb break="no"/>nialibus dans eis uillas predia
-<lb/>et terciam partem <placeName ref="https://wikidata.org/wiki/Q34217">oxonie</placeName> ad uictum ip<lb break="no"/>sarum. Beata igitur <persName ref="https://wikidata.org/wiki/Q1314431">frideswida</persName> bonis
+<lb/>et terciam partem <placeName ref="https://wikidata.org/wiki/Q34217">oxonie</placeName> ad uictum ip<lb break="no"/>sarum.</p> <p>Beata igitur <persName ref="https://wikidata.org/wiki/Q1314431">frideswida</persName> bonis
 <lb/>ornata moribus studuit corpus
 <lb/>domare spiritumque uiuificare. iuxta
 <lb/>apostoli uocem dicentis. <quote synch="Col3.5">Mortificate
@@ -2765,7 +2765,7 @@ Incipit
 <lb/>cenciesque per noctem⹎ suam <!-- begin quotation of Life A -->affligens
 <lb/>carnem implorans dei misericordiam.<!-- end quotation of Life A --></p>
 <p><lb/>Que dum continuaret quadam
-<lb/>nocte dum in oratorio dormien<lb break="no"/>tibus sodalibus suis orationi deuote
+<lb/>nocte dum in oratorio dormien<lb break="no"/>tibus sodalibus suis oracioni deuote
 <lb/>insisteret. <!-- begin quotation of Life A -->apparuit ei diabolus
 <lb/>ornatus auro et argento omnique la<lb break="no"/>pide precioso constipatusque caterua
 <lb/>demonum dixit ei. <said>O michi amabi<lb break="no"/>lis uirgo iam tempus est ut reci<lb break="no"/>pias <quote synch="Wisd10.17">mercedem laborum</quote> tuorum. Ve<lb break="no"/>ni ergo adorare me⹎ ego sum <name>cristus</name>
@@ -2778,7 +2778,7 @@ Incipit
 <lb/>non habes?</said></p> <p>Hec dicens ue<lb break="no"/>nerabilis uirgo. consignauit corpus
 <cb n="b"/>
 <lb/>suum uexillo crucis⹎ et statim dia<lb break="no"/>bolus dans mugitum et ululatum
-<lb/>euanuit. Beata uero uirgo perseue<lb break="no"/>rans in oratione persistensque in ui<lb break="no"/>giliis⹎ equo animo erat.<!-- end quotation of Life A -->
+<lb/>euanuit. Beata uero uirgo perseue<lb break="no"/>rans in oracione persistensque in ui<lb break="no"/>giliis⹎ equo animo erat.<!-- end quotation of Life A -->
 </p>
 </div>
 <div type="textpart" subtype="capitulum" n="2">
@@ -2803,7 +2803,7 @@ Incipit
 <lb/>confortetur homo<supplied reason="omitted">⹎</supplied> iudicentur gentes
 <lb/>in conspectu tuo.</quote> <quote synch="Ps35.2">Apprehend<subst><del rend="altered">a</del><add place="overstrike">e</add></subst> ar<lb break="no"/>ma et scutum et exurge in ad<lb break="no"/>iutorium michi.</quote> <quote synch="Ps34.3">Dic anime mee salus
 <lb/>t<del rend="expunct">a</del>ua ego sum.</quote></said></p> <p>Hec cum dixisset
-<lb/>ex<supplied reason="omitted">c</supplied>ecati sunt oculi eorum. Quod
+<lb/>execati<!--acceptable spelling--> sunt oculi eorum. Quod
 <lb/>cum uidissent populi ciuitatis ex<lb break="no"/>pauefacti corruerunt ad pedes
 <lb/>uirginis⹎ postulantes ut pro
 <lb/>eis oraret.</p> <p>Sanctissima igitur femina<!-- end quotation of Life A -->
@@ -2813,9 +2813,10 @@ Incipit
 <cb n="a"/>
 <lb/>et uisum eorum impetrauit.</p> <p>Qui cum
 <lb/>beate uirgini gracias debitas peregissent
-<lb/>domino suo peuertentes omnem <del rend="erased"><unclear>o</unclear></del>rei ha<lb break="no"/>bentem illi pronuncient.</p> <p><!-- begin quotation of Life A --><quote type="Bible">Repletus itaque
+<lb/>domino suo reuertentes omnem <del rend="erased"><unclear>p</unclear></del>rei ha<lb break="no"/>bentem illi pronuncient.</p> <p><!-- begin quotation of Life A --><quote type="Bible">Repletus itaque
 <lb/>rex furore et ira</quote>⹎ dixit. <said>Neque
-<lb/>incantaciones eius neque eius falsa dog<lb break="no"/>mata neque ars eius magica eam li<lb break="no"/>berabit⹎ de manibus in eis. quin eam<lb break="no"/>habeam.</said></p> <p>In ipsa nocte orante beata
+<lb/>incantaciones eius neque eius falsa dog<lb break="no"/>mata neque ars eius magica eam li<lb break="no"/>berabit⹎ de manibus meis. quin eam
+<lb/>habeam.</said></p> <p>In ipsa nocte orante beata
 <lb/><persName ref="https://wikidata.org/wiki/Q1314431">frideswida</persName> apparuit ei angelus domini
 <lb/>dicens. <said>O <quote type="Bible">uas electum</quote> sancti spiritus
 <lb/><quote type="Bible">noli timere</quote> minas funesti regis
@@ -2839,7 +2840,7 @@ Incipit
 </p>
 </div>
 <div type="textpart" subtype="capitulum" n="3">
-<head>Capitulum tertium.</head>
+<head>Capitulum tercium.</head>
 <p>
 <lb/>Beata igitur <persName ref="https://wikidata.org/wiki/Q1314431">frideswida</persName> cum suis
 <lb/>uirginibus minentes insidias
@@ -2848,7 +2849,7 @@ Incipit
 <lb/>uilla inueneruntque ibi semitam
 <cb n="b"/>
 <lb/>que ducebat ad mansiunculam
-<lb/>quam quondam fecerant subul<choice><orig>s</orig><reg>c</reg></choice>i<!-- being copied by ear? --> custodi<lb break="no"/>entes greges porcorum. coopertum<lb break="no"/>que erat ex omni parte hedera.
+<lb/>quam quondam fecerant subulsi<!--= subulci--> custodi<lb break="no"/>entes greges porcorum. coopertum<lb break="no"/>que erat ex omni parte hedera.
 <lb/>In quam intrauit sanctissima uirgo cum suis
 <lb/>uirginibus munientes se signaculo
 <lb/>sancte crucis.</p> <p>Surgens itaque rex
@@ -2857,7 +2858,7 @@ Incipit
 <lb/>igitur cepit rex intrare ciuitatem⹎
 <lb/>excecati sunt oculi eius et uidere
 <lb/>non potuit. Inde creditur inoleuise
-<lb/>reges <placeName ref="https://wikidata.org/wiki/Q34217">oxonefordiam</placeName> non intrare<supplied reason="omitted">.</supplied>⸝
+<lb/>reges <placeName ref="https://wikidata.org/wiki/Q34217">oxonefordiam</placeName> non intrare<supplied reason="omitted">.</supplied>
 <lb/>Permansit itaque impius rex cecus
 <lb/>omnibus diebus uite sue semperque
 <lb/>insidiabatur et cogitabat quomodo
@@ -2870,7 +2871,7 @@ Incipit
 <lb/>de manibus eius ceciderat in sompnis
 <lb/>admonita instanter pecii<add place="overstrike">s</add>. oculos
 <lb/>liniuit⹎ et uisum recepit.</p> <p>Alius
-<lb/>eciam in uilla que dicitur <placeName ref="https://wikidata.org/wiki/Q7440292">seucordia</placeName>.
+<lb/>eciam in uilla que dicitur <placeName ref="https://wikidata.org/wiki/Q7440292">Seucordia</placeName>.
 <lb/>non impune dominica die cum securi
 <lb/>ligna incidebat. Nam cum hoc
 <lb/>ageret⹎ adheserunt manus eius manu<lb break="no"/>brio⹎ ita ut extendere digitos
@@ -2886,9 +2887,9 @@ Incipit
 <lb/>piscator quidam <persName>Leswinus</persName> nomine a
 <lb/>demonio arreptus uinculisque ligatus.
 <lb/>ad ipsam esset adductus signum sancte
-<lb/>crucis fecit in frotem eius. ita di<lb break="no"/>cens. <said>Precipio tibi <persName ref="https://wikidata.org/wiki/Q35230">sathana</persName> in nomine
-<lb/><persName ref="https://wikidata.org/wiki/Q302">ihesu cristi</persName> ut recedas ali hac yma<lb break="no"/>gine dei.</said></p> <p><!-- begin quotation of Life A -->Hoc cum dixisset factus
-<lb/>est uelut mortuus cecidit quique in terram.
+<lb/>crucis fecit in frontem eius. ita di<lb break="no"/>cens. <said>Precipio tibi <persName ref="https://wikidata.org/wiki/Q35230">sathana</persName> in nomine
+<lb/><persName ref="https://wikidata.org/wiki/Q302">ihesu cristi</persName> ut recedas ab hac yma<lb break="no"/>gine dei.</said></p> <p><!-- begin quotation of Life A -->Hoc cum dixisset factus
+<lb/>est uelut mortuus ceciditque in terram.
 <lb/>Beata autem uirgo iussit eum solui.</p> <p><lb/>Cumque solutus esset tenuit manum
 <lb/>eius et dixit. <said><quote type="Bible">In nomine <persName ref="https://wikidata.org/wiki/Q302">ihesu cristi</persName>
 <lb/><placeName ref="https://wikidata.org/wiki/Q430776">nazareni</placeName> surge</quote> incolumis.</said></p> <p>Et
@@ -2913,7 +2914,7 @@ Incipit
 <lb/>osculum in nomine <persName ref="https://wikidata.org/wiki/Q302">ihesu cristi</persName>.</said></p> <p>Illa
 <lb/>semper ut<!-- ut semper N --> erat repleta spiritu sancto⹎
 <lb/>faciens signum crucis dedit ei
-<lb/>osculum in nomine deum. et statim mun<lb break="no"/>datus est a lepra. Videntes populi
+<lb/>osculum in nomine domini. et statim mun<lb break="no"/>datus est a lepra. Videntes populi
 <lb/>urbis illius omnisque clerus que
 <lb/>fiebant per sanctam <persName ref="https://wikidata.org/wiki/Q1314431">frideswidam</persName>
 <lb/>uirtutes et miracula⹎ gaudebant
@@ -2925,7 +2926,7 @@ Incipit
 <lb/>continuaret; et dies retribucionis
 <lb/>a domino recipiendi mercedem pro la<lb break="no"/>bore appropinquaret⹎ <date when="0727-10-12">quarto idus
 <lb/>octobris</date> apparuit ei angelus domini⹎
-<lb/>dixitque ei. <said><date when="0727-10-19">Quartodecimo kalen<lb break="no"/>das nouembris</date> erit dies dominicus⹎
+<lb/>dixitque ei. <said><date when="0727-10-19">Quarto decimo kalen<lb break="no"/>das nouembris</date> erit dies dominicus⹎
 <lb/>recipiesque a domino coronam immorta<lb break="no"/>litatis quam semper desiderasti. Pre<lb break="no"/>parata enim tibi est aula celestis⹎ lux<lb break="no"/>que immarcessibilis. quia despexisti
 <lb/>terrenum palacium patris.</said> Hoc dicto⹎
 <lb/>angelus ab ea recessit.</p> <p>Beatissima
@@ -2933,7 +2934,7 @@ Incipit
 <lb/>fortissima febre ingrauescente egri<lb break="no"/>tudine corporis cepit omnibus men<lb break="no"/>bris dissolui.</p> <p>Vnaquaque igitur die
 <lb/>ueniebant ad eam omnes ciues illius
 <lb/>urbis. Beata uero uirgo⹎ moni<lb break="no"/>tis salutaribus non cessabat eos
-<lb/>reficere.</p> <p>Sabbato igitur quo in crasti<lb break="no"/>num recessura erat a corpore⹎
+<lb/>reficere.</p> <p>Sabbato igitur quo incrasti<lb break="no"/>num recessura erat a corpore⹎
 <lb/>rogauit ut ei sepultura aperiretur
 <lb/>in ecclesia beate dei genitricis <persName ref="https://wikidata.org/wiki/Q345">marie</persName>
 <lb/>dicens. <said>Crastina die erit do<lb break="no"/>minicus dies. et nolo ut aliquis
@@ -2950,9 +2951,9 @@ Incipit
 <lb/>omnipotentem deum benedicere cepit.</p> <p>Cumque
 <lb/>infirmitatis mole nimium opprimere<lb break="no"/>tur⹎ post multas deuotas exhor<lb break="no"/>taciones respiciens sursum. clara
 <lb/>uoce cepit dicere. <said>Bene sancte
-<lb/>uirgines. bene ueniatis.</said></p> <p>Interroga<lb break="no"/>ueruntque causa astantes cum quibus
-<lb/>loqueretur.</p> <p>At illa respondit <said>numquid
-<lb/>non uidetis beatas uirgines dei <persName ref="https://wikidata.org/wiki/Q179718">ka<lb break="no"/>terinam</persName> ac <persName ref="https://wikidata.org/wiki/Q80513">ceciliam</persName>?</said></p> <p>Cumque loque<lb break="no"/>retur iterum ad eas. dixit audien<lb break="no"/>tibus cunctis. <said>Modo ueniam domine
+<lb/>uirgines. bene ueniatis.</said></p> <p>Interroga<lb break="no"/>ueruntque eam astantes cum quibus
+<lb/>loqueretur.</p> <p>At illa respondit <said>nunquid
+<lb/>non uidetis beatas uirgines dei <persName ref="https://wikidata.org/wiki/Q179718">ka<lb break="no"/>terinam</persName> a<choice><sic>t</sic><corr>c</corr></choice> <persName ref="https://wikidata.org/wiki/Q80513">ceciliam</persName>?</said></p> <p>Cumque loque<lb break="no"/>retur iterum ad eas. dixit audien<lb break="no"/>tibus cunctis. <said>Modo ueniam domine
 <lb/>mee.</said></p> <p>Post tercium itaque galli cantum
 <lb/>sicut predixerat ualedicens omnibus⹎
 <lb/>ad dominum <persName ref="https://wikidata.org/wiki/Q302">ihesum cristum</persName> migrauit;
@@ -2972,7 +2973,7 @@ Incipit
 <lb/>sanctorum dedicata ferme quadringen<lb break="no"/>tis octoginta annis. In cuius tem<lb break="no"/>poris spacio uarii fuerunt illius
 <lb/>monasterii status.</p> <p>Nam processu tem<lb break="no"/>poris monialibus de loco illo
 <lb/>recedentibus monasterium cum pos<lb break="no"/>sessionibus optinuerunt clerici
-<lb/>seculares. Quibus ob eorum in<lb break="no"/>solentiam exclusis monachi <placeName ref="https://wikidata.org/wiki/Q2820496">abyn<lb break="no"/>donienses</placeName> per aliquot tempora
+<lb/>seculares. Quibus ob eorum in<lb break="no"/>solenciam exclusis monachi <placeName ref="https://wikidata.org/wiki/Q2820496">abyn<lb break="no"/>donienses</placeName> per aliquot tempora
 <cb n="b"/>
 <lb/>omnia habuerunt.</p> <p>Finaliter uero canonici
 <lb/>regulares uiri religiosi illuc intro<lb break="no"/>ducti pro maiori parte omnia recuperantes
@@ -2986,7 +2987,7 @@ Incipit
 <lb/>conati sunt. Dicebat autem quod
 <lb/>quandoque sic fieri consueuit. super sanctorum
 <lb/>corpora poni sarcofaga uacua ut
-<lb/>fures si forte uenirent et
+<lb/>fures si forte<del rend="erased">t</del> uenirent et
 <lb/>corpus furari uellent⹎ sic delusi
 <lb/>recederent.</p> <p>Diligenter igitur fodien<lb break="no"/>tes. ad corpus uirginis peruene<lb break="no"/>runt; quod cum fieret omnia luminaria
 <lb/>que habebant subito extincta 
@@ -3000,7 +3001,7 @@ Incipit
 <lb/>igne de superueniente diuinitus
 <lb/>sunt reaccensa<supplied reason="omitted">.</supplied> quod cum uidis<lb break="no"/>sent miraculum repleti gaudio
 <lb/>magno dominum collau<add place="above">da</add>bant. Cer<lb break="no"/>cioresque de ueritate affecti⹎ corpus
-<lb/>glorios<supplied reason="omitted" source="#Blair1987">iss</supplied>imi in eodem loco in pace
+<lb/><app><lem>gloriosum</lem><rdg source="#Blair1987">gloriosissimi</rdg></app> in eodem loco in pace
 <lb/>dimiserunt.
 </p>
 </div>
@@ -3025,13 +3026,13 @@ Incipit
 <lb/>secum dominis uenerabilibus <persName ref="https://wikidata.org/wiki/Q7330237">Ricardo</persName>
 <lb/><placeName ref="https://wikidata.org/wiki/Q3300687">Wyntoniensi</placeName>. <persName ref="https://wikidata.org/wiki/Q1503040">Galfrido</persName> <placeName ref="https://wikidata.org/wiki/Q868644">eliensi</placeName><supplied reason="omitted">.</supplied>
 <lb/><persName ref="https://wikidata.org/wiki/Q16200057">Iohanne</persName> <placeName ref="https://wikidata.org/wiki/Q1790948">norwisensi</placeName>. <persName ref="https://wikidata.org/wiki/Q7177893">Petro</persName> <placeName ref="https://wikidata.org/wiki/Q2376211">meneuensi</placeName>
-<lb/>episcopis presenti uenerabili uiro ma<lb break="no"/>gistro <persName ref="https://wikidata.org/wiki/Q61490756">alexio</persName> tunc temporis ex de<lb break="no"/>legacione domini pape. <placeName ref="https://wikidata.org/wiki/Q22">scocie</placeName> legato
+<lb/>episcopis. presenti uenerabili uiro ma<lb break="no"/>gistro <persName ref="https://wikidata.org/wiki/Q61490756">alexio</persName> tunc temporis ex de<lb break="no"/>legacione domini pape. <placeName ref="https://wikidata.org/wiki/Q22">scocie</placeName> legato
 <lb/>et magistro <persName ref="https://wikidata.org/wiki/Q6257125">Iohanne</persName> tunc quidem electo
 <lb/><placeName ref="https://wikidata.org/wiki/Q4785838">sancti <persName ref="https://wikidata.org/wiki/Q43399">andree</persName></placeName>. ad eiusdem gloriosissime
 <lb/>ecclesiam accedans. prius quidam
 <lb/>indicto ieiunio sepulchrum
 <lb/>maxima cum deuocione aperiens ubi
-<lb/>ut dictum est per quadringentes et
+<lb/>ut dictum est per quadringentos et
 <lb/>octogincta circiter annos beatissimum
 <lb/>eius corpus requieuerat astante et
 <lb/>congaudente copiosa cleri et populi
@@ -3044,10 +3045,10 @@ Incipit
 <lb/>ut non inmerito de ea dictum uideretur.
 <lb/><quote synch="Cant4.10">Odor unguentorum tuorum super omnia
 <lb/>aromata.</quote><!-- end quotation of Philip --></p> <p>Scribit autem dominus <persName ref="https://wikidata.org/wiki/Q27455934">philippus</persName>
-<lb/>loci illius tempore translationis beate uirgi<lb break="no"/>nis ut dictum est prior de hiis que
+<lb/>loci illius tempore translacionis beate uirgi<lb break="no"/>nis ut dictum est prior de hiis que
 <lb/>tempore suo <add place="above">ibidem</add> acciderunt miraculis
 <lb/>inter cetera lumen amissum recuperas<lb break="no"/>se⹎ tredecim<supplied reason="omitted">.</supplied> conualuisse eciam sex
-<lb/>paraliticis. ydropicos tres.
+<lb/>paraliticos. ydropicos tres.
 <lb/>furiosos seu mente alienatos
 <lb/>nouem. febricitantos multos.
 <lb/>mutos tres. surdos quinque<supplied reason="omitted">.</supplied> lepro<lb break="no"/>simi unum. contractos undecim.
@@ -3059,16 +3060,16 @@ Incipit
 <lb/>libro translacionis et miraculorum beate
 <lb/>uirginis <persName ref="https://wikidata.org/wiki/Q1314431">frideswide</persName>. quorum tantum
 <lb/>unum causa breuitatis sensuimus
-<lb/>fore hic subnectendum.
+<lb/>fore hic subnectend<subst><del rend="erased">e</del><add place="inline">um</add></subst>.
 </p>
 </div>
 <div type="textpart" subtype="capitulum" n="7">
 <head>Capitulum septimum.</head>
 <p>
 <lb/><!-- begin quotation of Philip -->Erat <orgName ref="https://wikidata.org/wiki/Q7325">iudeius</orgName> quidam <persName>deus<lb break="no"/>eumcrescat</persName> uocabulo<supplied reason="omitted">.</supplied> sic enim
-<lb/>orationibus loco propriorum nominum utun<lb break="no"/>tur <orgName ref="https://wikidata.org/wiki/Q7325">iudei</orgName><supplied reason="omitted">.</supplied> filius <persName >moysi</persName> de <placeName ref="https://wikidata.org/wiki/Q988100">Walyng<lb break="no"/>forde</placeName> hominis minus quid<subst><del rend="alt">a</del><add place="inline">e</add></subst>m ceteris
+<lb/>oracionibus loco propriorum nominum utun<lb break="no"/>tur <orgName ref="https://wikidata.org/wiki/Q7325">iudei</orgName><supplied reason="omitted">.</supplied> filius <persName >moysi</persName> de <placeName ref="https://wikidata.org/wiki/Q988100">Walyng<lb break="no"/>forde</placeName> hominis minus quid<subst><del rend="alt">a</del><add place="inline">e</add></subst>m ceteris
 <lb/><orgName ref="https://wikidata.org/wiki/Q7325">iudeis</orgName> detestandi nephandis<lb break="no"/>simo spiritu agitatus⹎ <orgName ref="https://wikidata.org/wiki/Q106039">cristiane</orgName> plebis
-<lb/>insultans deuotioni uerbis blas<lb break="no"/>femis uirtutes diuinas irri<lb break="no"/>debat. derisiue manus contrahens
+<lb/>insultans deuocioni uerbis blas<lb break="no"/>femis uirtutes diuinas irri<lb break="no"/>debat. derisiue manus contrahens
 <lb/>post aperiens. pedibus prius clau<lb break="no"/>dicans. postmodum recte incedens.
 <pb n="104r"/>
 <cb n="a"/>
@@ -3081,15 +3082,15 @@ Incipit
 <lb/>blasphemias exaggerans a patre
 <lb/>grauiter correptus ab incepto desistere
 <lb/>noluit asserens nichil posse <persName ref="https://wikidata.org/wiki/Q1314431">frides<lb break="no"/>widam</persName> nec uirtutes eius sibi esse
-<lb/>formidini. Tandem cum indignatione
+<lb/>formidini. Tandem cum indignacione
 <lb/>maxima pater ei inprecatus est ut locum
 <lb/>sibi post centum annorum spacium
-<lb/>deputatum mox obtineret<supplied reason="omitted">.</supplied> Ad
+<lb/>deputatum mox optineret<supplied reason="omitted">.</supplied> Ad
 <lb/>hanc uocem aliquantulum conquieuit
 <lb/>blasphemus et non multo post interiec<lb break="no"/>to tempore in accidiam delapsus
 <lb/>tanquam mente alienatus totus animo
 <lb/>consternatus est⹎ id nimirum agente
-<lb/>dei prouidentia ut qui in reprobum
+<lb/>dei prouidencia ut qui in reprobum
 <lb/>sensum datus fuerat. <persName ref="https://wikidata.org/wiki/Q35230">sathane</persName> satel<lb break="no"/>litibus traderetur. Nocte igitur sequente
 <lb/>surgit infelix e lecto. coquinam
 <lb/>patris ingreditur circa sue mortis
@@ -3099,7 +3100,7 @@ Incipit
 <lb/>et collo circumligans. in hoc <orgName ref="https://wikidata.org/wiki/Q81018">iude</orgName>
 <lb/>proditoris similis⹎ tali suspen<lb break="no"/>dio uitam finiuit infelicem. Mane
 <lb/>facto pater de filio sollicitus⹎ diu
-<lb/>quesitum suspensum inuenit. Quia
+<lb/>quesitum suspensum inuenit. Qua
 <lb/>uisione tremefactus⹎ secreto com<lb break="no"/>plices suos rogat. quod huiusmodi
 <cb n="b"/>
 <lb/>casus <orgName ref="https://wikidata.org/wiki/Q106039">cristiane</orgName> plebi potissimum
@@ -3107,7 +3108,7 @@ Incipit
 <lb/>resur<supplied reason="omitted">r</supplied>exionis dominice gloriam frustra
 <lb/>supprimere conati sunt. sic et ulci<lb break="no"/>onis diuine districtionem incassum
 <lb/>plebs inpia studebat occultare.
-<lb/>Quia quod dei uirtus et sapientia mani<lb break="no"/>festat humana celare nequit astu<lb break="no"/>cia. Huius rei fama repletur ilico
+<lb/>Quia qu<subst><del rend="altered">i</del><add place="inline">o</add></subst>d dei uirtus et sapiencia mani<lb break="no"/>festat humana celare nequit astu<lb break="no"/>cia. Huius rei fama repletur illico
 <lb/>ciuitas fidelibus ingerit leticiam⹎
 <lb/>infidelium confusio. Magnificatur
 <lb/>igitur in uirgine sua saluator⹎ qui
